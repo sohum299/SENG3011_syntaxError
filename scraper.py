@@ -1,5 +1,6 @@
 import requests
-import bs5
+from bs4 import BeautifulSoup
 URL = "https://www.cdc.gov/outbreaks/"
 r = requests.get(URL)
-print(r.content)
+soup = BeautifulSoup(r.content, 'html5lib')
+print(soup.prettify())
