@@ -4,6 +4,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 from selenium.webdriver.support.ui import Select
 import re
+import json
+import validators 
 import requests
 
 #URL = "http://outbreaks.globalincidentmap.com/"  
@@ -25,6 +27,24 @@ with open('rawData.html',"r",encoding = "ISO-8859-1") as f:
 with open('rawData.txt') as f:
   dataStore = eval(f.read())
 f.close()
-print(dataStore[3]['Description'])
+
 for article in dataStore:
-  
+  soup = BeautifulSoup(article['Description'], "html.parser")
+  text = soup.get_text()
+  text = text.split('] ')[1]
+  text = text.split('Read')[0]
+  main_string = ""
+  valid=validators.url(article["URL"])
+  if valid:
+    req = requests.get(article["URL"])
+  if req.status_code == 200:
+    soup = BeautifulSoup(req.content, 'html.parser')
+    main_body = soup.findAll('p')
+    for tag in main_body:
+      main_string = main_string + tag.text.strip()
+  FinalDict = {"URL": article['URL'], "date_of_publication":article['DateTime'], "headline": article['TipText'],"main_text":main_string, "Description": text}
+  with open("final.json", "a+") as f:
+    json.dump(FinalDict,f, indent=2)
+    f.write('\n')
+
+    
