@@ -3,19 +3,19 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 from selenium.webdriver.support.ui import Select
+from unidecode import unidecode
 import re
 import json
 import validators
 import requests
 import locationtagger
+from newspaper import Article 
 import nltk
 import ssl
+import unicodedata
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-
-
-
 
 #extract a list of locations, match it to the original text 
 #split the string so that its just that sentence
@@ -54,6 +54,13 @@ def generateReport(text):
 
   #print(tagged_words)
   DiseaseList = []
+  SyndromeList = []
+  LocationList = []
+  ReportList = []
+  #finds disease, finds location associated with disease
+  # if location already exists in report list, append disease to that report
+  # if Disease mentioned again but new location not in location list, then append new location to existing disease
+
   f = open("disease_list.json","r") 
   data = json.load(f)
   for word in data:
@@ -61,15 +68,38 @@ def generateReport(text):
     for sentence in sentences:
       if word['name'].lower() in sentence.lower() and word['name'] not in DiseaseList:
         DiseaseList.append(word['name'])
-  print(DiseaseList)
+        print(sentence)
+        entities = locationtagger.find_locations(text = sentence.lower())
+        cityList = entities.cities
+        regionList = entities.regions
+        countryList = entities.countries
+        if len(cityList) == 0 and len(regionList) == 0:
+          print(countryList)
+        elif len(cityList) == 0 and len(regionList) != 0:
+          print(regionList)
+        else: 
+          print(cityList)
+      
+        
+  if len(DiseaseList) == 0:
+    DiseaseList.append("other")
+  f.close()
 
+  f = open("syndrome_list.json","r") 
+  syndromes = json.load(f)
+  for word in syndromes:
+    #print(word)
+    for sentence in sentences:
+      if word['name'].lower() in sentence.lower() and word['name'] not in SyndromeList:
+        SyndromeList.append(word['name'])
+  # print(SyndromeList)
   # use lat/long for location
   # use disease/syndrome list for diseases/syndromes
   # look for an ordinal for a case number 
   # look for event-type things 
-  LocationList = locationtagger.find_locations(text = text.lower())
-  print(LocationList.regions, LocationList.country_cities, LocationList.countries)
-  locationSentences = []
+  LocationList = locationtagger.find_locations(text = text)
+  #print(LocationList.country_regions)
+  return {"diseases": DiseaseList, "syndromes": SyndromeList, "event_date": "2022-2-3", "Locations": LocationList.country_regions}
 """
   for t in tree:
     for c in t:
@@ -117,12 +147,28 @@ for article in dataStore:
     req = requests.get(article["URL"])
   if req.status_code == 200:
     soup = BeautifulSoup(req.content, 'html.parser')
-    main_body = soup.findAll('p')
-    for tag in main_body:
-      main_string = main_string + tag.text.strip()
+    
+    # main_body = soup.findAll('p')
+    # for tag in main_body:
+    #   if ('\n' not in tag.text.strip()):
+    #     main_string = main_string + tag.text.strip()
+
+  currArticle = Article(article["URL"])
+  currArticle.download()
+  currArticle.parse()
+  currArticle.nlp()
+  main_string = currArticle.text
+  main_string = re.sub('\n', ' ', main_string)
+  main_string = unidecode(main_string)
   
-  report = generateReport(text)
-  FinalDict = {"URL": article['URL'], "date_of_publication":article['DateTime'], "headline": article['TipText'],"main_text":main_string, "Description": text}
+  if main_string != "":
+    report = generateReport(main_string)
+  else:
+    report = generateReport(text)
+  
+  # main_string = unidecode(main_string)
+  # main_string = main_string.encode("ascii","ignore").decode("utf-8","replace")
+  FinalDict = {"URL": article['URL'], "date_of_publication":article['DateTime'], "headline": article['TipText'],"main_text":main_string, "Description": text, "reports":report}
   with open("final.json", "a+") as f:
     json.dump(FinalDict,f, indent=2)
     f.write('\n')

@@ -1,0 +1,36 @@
+# main text article body as a string
+#
+
+
+
+## Layout of JSON object
+{
+    url: <string>,
+    date_of_publication: <string::date>,
+    headline: <string>,
+    main_text: <string>,
+    reports: [
+        {
+            diseases: [<string>],
+            syndromes: [<string>],
+            event_date: <string::date>,
+            locations: [
+                {
+                    country: <string>,
+                    location: <string>
+                }
+            ]
+        },
+        {
+            diseases: [<string>],
+            syndromes: [<string>],
+            event_date: <string::date>,
+            locations: [
+                {
+                    country: <string>,
+                    location: <string>
+                }
+            ]
+        }
+    ]
+}
