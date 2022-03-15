@@ -1,5 +1,5 @@
 from flask import Flask
-from routes import api, app
+from server import  app
 
 if __name__ == '__main__':
     app.run(debug=True)
