@@ -1,5 +1,0 @@
-flask
-flask_restx
-flask_cors
-geocoder
-gunicorn
