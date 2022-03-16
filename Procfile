@@ -1,2 +1,2 @@
-web:gunicorn ./PHASE_1/API_SourceCode/server:APP
+web:gunicorn server:APP
 heroku ps:scale web=1
