@@ -1,0 +1,54 @@
+# main text article body as a string
+#
+
+# Things to work on (sequentially):
+1. 
+
+
+
+
+
+
+## Layout of JSON object
+{
+    url: <string>,
+    date_of_publication: <string::date>,
+    headline: <string>,
+    main_text: <string>,
+    reports: [
+        {
+            diseases: [<string>],
+            syndromes: [<string>],
+            event_date: <string::date>,
+            locations: [
+                {
+                    country: <string>,
+                    location: <string>
+                }
+            ]
+        },
+        {
+            diseases: [<string>],
+            syndromes: [<string>],
+            event_date: <string::date>,
+            locations: [
+                {
+                    country: <string>,
+                    location: <string>
+                }
+            ]
+        }
+    ]
+}
+
+Article Table{
+    ID as primary key,
+    URL,
+    ...
+}
+
+Report Table{
+    Article is foreign key refering to Article (enforces 1:n relationship)
+    Deseases,
+    ...
+}
