@@ -172,8 +172,10 @@ def get_results():
 
             if datetime_event_date < datetime_start_date and datetime_event_date > datetime_end_date:
                 continue
-        reportList.append(report)                
-    
+        reportList.append(report) 
+
+    with open('output.json', "w+") as f:
+        f.write(json.dumps(reportList, indent = 2))
     return json.dumps(reportList, indent=2)
 # http://127.0.0.1:8080/search?start_date=2015-10-01T08:45:10&end_date=2015-11-01T19:37:12
 @APP.route('/results/<int:article_id>', methods=['GET'])
@@ -184,19 +186,26 @@ def get_result(article_id):
 
 @APP.route('/update/result', methods=['POST'])
 def update_result():
-    
+    args = request.get(args)
+    with open('output.json', "w+") as f:
+        f.write(json.dumps(args, indent = 2))
     '''A report with the given parameters'''
     return "Updated Report"
 
 
 @APP.route('/add/result', methods=['POST'])
 def add_result():
+    args = request.get(args)
+    with open('output.json', "w+") as f:
+        f.write(json.dumps(args, indent = 2))
     '''Add a new report with the given parameters'''
     return "Added Report"
 
 @APP.route('/results/<int:article_id>', methods=['DELETE'])
 def remove_result(article_id):
-
+    args = request.get(args)
+    with open('output.json', "w+") as f:
+        f.write(json.dumps(args))
     return 'Deleted Report'
 
 
