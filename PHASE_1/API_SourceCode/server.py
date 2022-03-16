@@ -11,7 +11,6 @@ from flask_restx import Resource, Api, reqparse
 from flask_cors import CORS
 from json import dumps
 import geocoder
-import locationtagger
 
 
 def defaultHandler(err):
