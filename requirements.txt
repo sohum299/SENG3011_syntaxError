@@ -1,3 +1,9 @@
+unicode
+validators
+locationtagger
+newspaper
+nltk
+datefinder
 flask
 flask_restx
 flask_cors
