@@ -2,7 +2,13 @@
 #
 
 # Things to work on (sequentially):
-1. 
+1. fix Location parsing 
+2. fix event date parsing 
+3. Fix report separation 
+4. Check all URLs are fed in properly 
+5. Convert it from JSON into a database
+6. Improve Location Filter
+7. Above and Beyond
 
 
 
@@ -52,3 +58,4 @@ Report Table{
     Deseases,
     ...
 }
+

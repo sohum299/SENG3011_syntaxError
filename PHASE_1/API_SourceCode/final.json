@@ -37,7 +37,7 @@
       "syndromes": [
         "Meningitis"
       ],
-      "event_date": "2022-03-15",
+      "event_date": "2022-03-17",
       "EventType": [],
       "Locations": [
         {
@@ -83,7 +83,7 @@
         "other"
       ],
       "syndromes": [],
-      "event_date": "03-15-0221T00:00:00",
+      "event_date": "03-17-0221T00:00:00",
       "EventType": [
         "Presence"
       ],
@@ -105,7 +105,7 @@
         "chikungunya"
       ],
       "syndromes": [],
-      "event_date": "2022-03-15",
+      "event_date": "2022-03-17",
       "EventType": [],
       "Locations": [
         {
@@ -125,7 +125,7 @@
         "other"
       ],
       "syndromes": [],
-      "event_date": "03-15-0160T00:00:00",
+      "event_date": "03-17-0160T00:00:00",
       "EventType": [
         "Presence",
         "Infected"
@@ -171,7 +171,7 @@
         "other"
       ],
       "syndromes": [],
-      "event_date": "2022-03-15",
+      "event_date": "2022-03-17",
       "EventType": [
         "Presence"
       ],
@@ -193,7 +193,7 @@
         "other"
       ],
       "syndromes": [],
-      "event_date": "03-15-2015T00:00:00",
+      "event_date": "03-17-2015T00:00:00",
       "EventType": [
         "Infected",
         "Death"
@@ -216,7 +216,7 @@
         "lassa fever"
       ],
       "syndromes": [],
-      "event_date": "03-15-1990T00:00:00",
+      "event_date": "03-17-1990T00:00:00",
       "EventType": [
         "Infected",
         "Death"
@@ -291,7 +291,7 @@
         "other"
       ],
       "syndromes": [],
-      "event_date": "2022-03-15",
+      "event_date": "2022-03-17",
       "EventType": [],
       "Locations": [
         {
@@ -311,7 +311,7 @@
         "other"
       ],
       "syndromes": [],
-      "event_date": "05-15-2022T00:00:00",
+      "event_date": "05-17-2022T00:00:00",
       "EventType": [
         "Infected"
       ],
@@ -348,7 +348,7 @@
         "other"
       ],
       "syndromes": [],
-      "event_date": "03-15-0100T00:00:00",
+      "event_date": "03-17-0100T00:00:00",
       "EventType": [
         "Presence"
       ],
@@ -370,7 +370,7 @@
         "other"
       ],
       "syndromes": [],
-      "event_date": "2022-03-15",
+      "event_date": "2022-03-17",
       "EventType": [],
       "Locations": [
         {
@@ -390,7 +390,7 @@
         "rabies"
       ],
       "syndromes": [],
-      "event_date": "05-15-2022T00:00:00",
+      "event_date": "05-17-2022T00:00:00",
       "EventType": [
         "Infected"
       ],
@@ -481,7 +481,7 @@
         "other"
       ],
       "syndromes": [],
-      "event_date": "2022-03-15",
+      "event_date": "2022-03-17",
       "EventType": [],
       "Locations": [
         {
@@ -524,7 +524,7 @@
         "COVID-19"
       ],
       "syndromes": [],
-      "event_date": "03-15-0311T00:00:00",
+      "event_date": "03-17-0311T00:00:00",
       "EventType": [],
       "Locations": []
     }
@@ -599,7 +599,7 @@
         "other"
       ],
       "syndromes": [],
-      "event_date": "2022-03-15",
+      "event_date": "2022-03-17",
       "EventType": [
         "Infected",
         "Presence"
@@ -609,6 +609,1423 @@
           "geonames_id": 1723066
         }
       ]
+    }
+  },
+  {
+    "URL": "https://www.registercitizen.com/news/article/Bird-flu-detected-among-mixed-species-flock-in-16981272.php",
+    "date_of_publication": "2022-03-06T21:06:00",
+    "headline": "SOUTH DAKOTA - Bird Flu Detected Among Mixed Species Flock In South Dakota",
+    "main_text": "SIOUX FALLS, S.D. (AP) -- Federal inspectors have confirmed the presence of bird flu in a commercial mixed species flock in southeastern South Dakota.  Samples from the flock in Charles Mix County, which borders Nebraska, were tested at a national laboratory at South Dakota State University. The property was quarantined and the birds will be killed to prevent spread of the disease, the Agriculture Department said.  Avian influenza is an airborne respiratory virus that spreads easily among chickens through nasal and eye secretions, as well as manure. The virus can spread from flock to flock by wild birds, through contact with infected poultry, by equipment, and on the clothing and shoes of caretakers.  The highly contagious virus was discovered a month ago in a commercial turkey flock in Indiana and was detected earlier this week in a backyard flock of chickens and ducks in western Iowa.  The U.S. Centers for Disease Control and Prevention said the recent bird flu detections do not present an immediate public health concern. No human cases of these avian influenza viruses have been detected in the United States.  Birds from the South Dakota flock will not enter the food system, the USDA said.",
+    "Description": "SOUTH DAKOTA - Bird flu detected among mixed species flock in South Dakota\"Federal inspectors have confirmed the presence of bird flu in a commercial mixed species flock in southeastern South Dakota.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "2022-03-17",
+      "EventType": [
+        "Infected"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.tvcnews.tv/2017/06/five-new-cases-of-lassa-fever-reported-in-ondo-state/",
+    "date_of_publication": "2022-03-06T21:05:00",
+    "headline": "NIGERIA - Five New Cases Of Lassa Fever Reported In Ondo State",
+    "main_text": "No fewer than five people are reported to be infected with Lassa Fever in Owo Local Government and Akoko North-West Local Government areas of Ondo state.  A student of the Achievers University in Owo has also contracted the disease.  He said government is doing its best to curtail the spread of the disease by isolating the patients  He appealed to the people of the state to always visit the nearest government hospitals whenever they have recurring fever.",
+    "Description": "NIGERIA - Five new cases of Lassa Fever reported in Ondo State\"No fewer than five people are reported to be infected with Lassa Fever in Owo Local Government and Akoko North-West Local Government areas of Ondo state.\"",
+    "reports": {
+      "diseases": [
+        "lassa fever"
+      ],
+      "syndromes": [],
+      "event_date": "2022-03-17",
+      "EventType": [
+        "Infected"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.express.co.uk/life-style/food/1576369/john-lewis-morrisons-urgent-recall-snaffling-pig-salmonella-full-list",
+    "date_of_publication": "2022-03-06T21:05:00",
+    "headline": "UNITED KINGDOM - John Lewis And Morrisons Recall Popular Food Due To Salmonella Fears \u00c3\u00a2\u00c2\u20ac\u00c2\u201c Do Not Consu",
+    "main_text": "We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info  Discover the best city breaks, beach holidays, cruises and UK travel spots by signing up  Food recalls are issued when a product is unsafe to eat, due to contamination or misbranding. John Lewis and Morrisons have issued a warning on several of their Snaffling Pig products.  Key difference between Princess Charlotte and her brothers highlighted  What to do in a nuclear attack - four key steps to take to stay safe  Snaffling Pig is a \"pork snack-based business\", according to its website.  The Snaffling pig previously recalled its Salted Pork Scratchings, due to traces of Salmonella, sold on Ocado, Amazon, and Morrison's.  Snaffling Pig Salted Pork Scratchings come in 45g packs, and have a best before date of June 11, 2022.  After concerns of the potential presence of salmonella, even more Snaffling Pig food products have been recalled.  READ MORE: Kate's 'charming body language' met with 'frostiness from Eugenie'",
+    "Description": "UNITED KINGDOM - John Lewis and Morrisons recall popular food due to salmonella fears \u2013 \u2018do not consume'\"Food recalls are issued when a product is unsafe to eat, due to contamination or misbranding. John Lewis and Morrisons have issued a warning on several of their Snaffling Pig products.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "05-17-2022T00:00:00",
+      "EventType": [],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.amarujala.com/uttar-pradesh/maharajganj/birdflu-in-kathmandu-and-pokhra-maharajganj-news-gkp4291102150",
+    "date_of_publication": "2022-03-06T21:04:00",
+    "headline": "NEPAL - Bird Flu Knocks In Kathmandu - Pokhara And Chitwan",
+    "main_text": "{\"_id\":\"6224e580950db571216994dd\",\"slug\":\"birdflu-in-kathmandu-and-pokhra-maharajganj-news-gkp4291102150\",\"type\":\"story\",\"status\":\"publish\",\"title_hn\":\"kaatthmaaNdduu, pokhraa aur citvn meN brdd phluu kii dstk\",\"category\":{\"title\":\"City & states\",\"title_hn\":\"shhr aur raajy\",\"slug\":\"city-and-states\"}}  kaatthmaaNdduu, pokhraa aur citvn meN brdd phluu kii dstk  gorkhpur byuuro  Updated Sun, 06 Mar 2022 10:16 PM IST Updated Sun, 06 Mar 2022 10:16 PM IST  vijnyaapn  kh'br suneN  kh'br suneN  kaatthmaaNdduu, pokhraa aur citvn meN brdd phluu kii dstk  nepaal srkaar ne brdd phluu prbhaavit kssetr ghossit kiyaa  sNvaad nyuuj ejeNsii  sonaulii (mhraajgNj) /  brdd phluu ke kaarnn murgiyoN kii maut se nepaal meN hdd'kNp hai /  nepaal ke kaatthmaaNdduu, citvn aur pokhraa ke polttrii phaarmoN ke murgiyoN meN brdd phluu kii pusstti huii hai /  ab unheN khtm krne ko lekr siiliNg kaa kaam shuruu kr diyaa gyaa hai /  nepaal srkaar ne kaatthmaaNdduu, citvn aur pokhraa ko brdd phluu prbhaavit kssetr ghossit kiyaa hai /   nepaal srkaar ke prvktaa, sNcaar aur suucnaa praudyogikii mNtrii jnyaaneNdr bhaadur kaarkii ne khaa ki srkaar ne kaatthmaaNdduu kii gokrnneshvr ngr paalikaa -3 aur citvn raaptii -6 ko brdd phluu prbhaavit kssetr ghossit krke niyNtrit krne kaa nirnny liyaa hai /   kaibinett kii baitthk ke phaisle kii ghossnnaa krte hue khaa ki pryttk ngrii pokhraa ke kuch hisse meN vrdd phluu ke maamle aae haiN /  nirdhaarit sthaan ke aaspaas 100 miittr tk ke kssetr meN pkssii vilupt hone kii tithi se 42 dinoN kii avdhi ke lie brdd phluu prbhaavit kssetr ghossit krke rog ko niyNtrit krne kaa nirnny liyaa gyaa hai /   pshu cikitsaadhikaarii pokhraa shess naath adhikaarii ne btaayaa ki ek phoNrm haaus meN do sau murgiyoN ke mrne ke baad prshaasn alrtt hai /  nmuune ektr kr pryogshaalaa meN bhejaa gyaa hai / ",
+    "Description": "NEPAL - bird flu knocks in kathmandu, pokhara and chitwan\"the death of chickens due to bird flu has created a stir in nepal. bird flu has been confirmed in chickens of poultry farms in kathmandu, chitwan and pokhara in nepal.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-06-2022T22:16:00",
+      "EventType": [],
+      "Locations": [
+        {
+          "geonames_id": 1283240
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.amarujala.com/uttar-pradesh/maharajganj/birdflu-in-kathmandu-and-pokhra-maharajganj-news-gkp4291102150",
+    "date_of_publication": "2022-03-06T21:03:00",
+    "headline": "NEPAL - Bird Flu Knocks In Kathmandu - Pokhara And Chitwan",
+    "main_text": "{\"_id\":\"6224e580950db571216994dd\",\"slug\":\"birdflu-in-kathmandu-and-pokhra-maharajganj-news-gkp4291102150\",\"type\":\"story\",\"status\":\"publish\",\"title_hn\":\"kaatthmaaNdduu, pokhraa aur citvn meN brdd phluu kii dstk\",\"category\":{\"title\":\"City & states\",\"title_hn\":\"shhr aur raajy\",\"slug\":\"city-and-states\"}}  kaatthmaaNdduu, pokhraa aur citvn meN brdd phluu kii dstk  gorkhpur byuuro  Updated Sun, 06 Mar 2022 10:16 PM IST Updated Sun, 06 Mar 2022 10:16 PM IST  vijnyaapn  kh'br suneN  kh'br suneN  kaatthmaaNdduu, pokhraa aur citvn meN brdd phluu kii dstk  nepaal srkaar ne brdd phluu prbhaavit kssetr ghossit kiyaa  sNvaad nyuuj ejeNsii  sonaulii (mhraajgNj) /  brdd phluu ke kaarnn murgiyoN kii maut se nepaal meN hdd'kNp hai /  nepaal ke kaatthmaaNdduu, citvn aur pokhraa ke polttrii phaarmoN ke murgiyoN meN brdd phluu kii pusstti huii hai /  ab unheN khtm krne ko lekr siiliNg kaa kaam shuruu kr diyaa gyaa hai /  nepaal srkaar ne kaatthmaaNdduu, citvn aur pokhraa ko brdd phluu prbhaavit kssetr ghossit kiyaa hai /   nepaal srkaar ke prvktaa, sNcaar aur suucnaa praudyogikii mNtrii jnyaaneNdr bhaadur kaarkii ne khaa ki srkaar ne kaatthmaaNdduu kii gokrnneshvr ngr paalikaa -3 aur citvn raaptii -6 ko brdd phluu prbhaavit kssetr ghossit krke niyNtrit krne kaa nirnny liyaa hai /   kaibinett kii baitthk ke phaisle kii ghossnnaa krte hue khaa ki pryttk ngrii pokhraa ke kuch hisse meN vrdd phluu ke maamle aae haiN /  nirdhaarit sthaan ke aaspaas 100 miittr tk ke kssetr meN pkssii vilupt hone kii tithi se 42 dinoN kii avdhi ke lie brdd phluu prbhaavit kssetr ghossit krke rog ko niyNtrit krne kaa nirnny liyaa gyaa hai /   pshu cikitsaadhikaarii pokhraa shess naath adhikaarii ne btaayaa ki ek phoNrm haaus meN do sau murgiyoN ke mrne ke baad prshaasn alrtt hai /  nmuune ektr kr pryogshaalaa meN bhejaa gyaa hai / ",
+    "Description": "NEPAL - bird flu knocks in kathmandu, pokhara and chitwan\"the death of chickens due to bird flu has created a stir in nepal. bird flu has been confirmed in chickens of poultry farms in kathmandu, chitwan and pokhara in nepal.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-06-2022T22:16:00",
+      "EventType": [],
+      "Locations": [
+        {
+          "geonames_id": 1283240
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.amarujala.com/uttar-pradesh/maharajganj/birdflu-in-kathmandu-and-pokhra-maharajganj-news-gkp4291102150",
+    "date_of_publication": "2022-03-06T21:02:00",
+    "headline": "NEPAL - Bird Flu Knocks In Kathmandu - Pokhara And Chitwan",
+    "main_text": "{\"_id\":\"6224e580950db571216994dd\",\"slug\":\"birdflu-in-kathmandu-and-pokhra-maharajganj-news-gkp4291102150\",\"type\":\"story\",\"status\":\"publish\",\"title_hn\":\"kaatthmaaNdduu, pokhraa aur citvn meN brdd phluu kii dstk\",\"category\":{\"title\":\"City & states\",\"title_hn\":\"shhr aur raajy\",\"slug\":\"city-and-states\"}}  kaatthmaaNdduu, pokhraa aur citvn meN brdd phluu kii dstk  gorkhpur byuuro  Updated Sun, 06 Mar 2022 10:16 PM IST Updated Sun, 06 Mar 2022 10:16 PM IST  vijnyaapn  kh'br suneN  kh'br suneN  kaatthmaaNdduu, pokhraa aur citvn meN brdd phluu kii dstk  nepaal srkaar ne brdd phluu prbhaavit kssetr ghossit kiyaa  sNvaad nyuuj ejeNsii  sonaulii (mhraajgNj) /  brdd phluu ke kaarnn murgiyoN kii maut se nepaal meN hdd'kNp hai /  nepaal ke kaatthmaaNdduu, citvn aur pokhraa ke polttrii phaarmoN ke murgiyoN meN brdd phluu kii pusstti huii hai /  ab unheN khtm krne ko lekr siiliNg kaa kaam shuruu kr diyaa gyaa hai /  nepaal srkaar ne kaatthmaaNdduu, citvn aur pokhraa ko brdd phluu prbhaavit kssetr ghossit kiyaa hai /   nepaal srkaar ke prvktaa, sNcaar aur suucnaa praudyogikii mNtrii jnyaaneNdr bhaadur kaarkii ne khaa ki srkaar ne kaatthmaaNdduu kii gokrnneshvr ngr paalikaa -3 aur citvn raaptii -6 ko brdd phluu prbhaavit kssetr ghossit krke niyNtrit krne kaa nirnny liyaa hai /   kaibinett kii baitthk ke phaisle kii ghossnnaa krte hue khaa ki pryttk ngrii pokhraa ke kuch hisse meN vrdd phluu ke maamle aae haiN /  nirdhaarit sthaan ke aaspaas 100 miittr tk ke kssetr meN pkssii vilupt hone kii tithi se 42 dinoN kii avdhi ke lie brdd phluu prbhaavit kssetr ghossit krke rog ko niyNtrit krne kaa nirnny liyaa gyaa hai /   pshu cikitsaadhikaarii pokhraa shess naath adhikaarii ne btaayaa ki ek phoNrm haaus meN do sau murgiyoN ke mrne ke baad prshaasn alrtt hai /  nmuune ektr kr pryogshaalaa meN bhejaa gyaa hai / ",
+    "Description": "NEPAL - bird flu knocks in kathmandu, pokhara and chitwan\"the death of chickens due to bird flu has created a stir in nepal. bird flu has been confirmed in chickens of poultry farms in kathmandu, chitwan and pokhara in nepal.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-06-2022T22:16:00",
+      "EventType": [],
+      "Locations": [
+        {
+          "geonames_id": 1283240
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.newsclick.in/polls-over-40-lives-recently-lost-deadly-malaria-healthcare-not-poll-plank-sonbhadra-villages",
+    "date_of_publication": "2022-03-06T21:02:00",
+    "headline": "INDIA - Up Polls - Over 40 Lives Recently Lost To Deadly Malaria - Healthcare Not A Poll Plank In So",
+    "main_text": "Sonbhadra (Uttar Pradesh): Pratibha, 23, entered a wedlock with Ajay Kumar Prajapati, 25, on April 23, 2017. Two children were born to the couple. One is a three-year-old and the other is six months. In August 2021, Pratibha developed fever -- which would often spike despite constant medication. She was expecting her youngest child and was seven months pregnant at that time.  She was admitted to a private hospital for 15 days. She tested Pf positive (Plasmodium falciparum -- a parasite, which causes the deadliest form of malaria). The second time her condition deteriorated, she was rushed to the local Hindalco Hospital -- where doctors referred her to the district hospital at Robertsganj (also known as Sonbhadra). She delivered her baby there. Soon after the delivery, she was referred again to Sir Sunderlal Hospital at the Banaras Hindu University (BHU).  Twenty-four hours after her admission there, she died on October 3, 2021. Her death certificate noted that she died of CVA (cerebrovascular accident, causing sudden death of some brain cells), postpartum sepsis (which occurs when bacteria infect the uterus and surrounding areas after a woman gives birth) and cardiopulmonary arrest (sudden loss of heart function, breathing and consciousness).  Notably, none of her medical records was handed over to her family -- except the death certificate.  Pratibha's mother-in-law, Phoolmati, who cooks midday meals at a local primary school, is now taking care of the toddler.  Ajay's mother Phoolmati with her grandson whose mother Pratibha passed away soon after his birth.    \"Not only that I lost my life partner who was always with me in all highs and lows, my children lost their mother at such a young age. I did what I could do to save her, but failed. Now, I don't know how my child will be raised,\" Ajay, a resident of Markara village in Myorpur block from Sonbhadra district's Dudhi tehsil (sub-district), told NewsClick.  He is heavily indebted as he spent on her treatment Rs 1.2 lakh, which he has borrowed in three instalments from a private moneylender.  His child is so malnourished and underweight that he could not be vaccinated. \"I have suggested to his grandmother that they feed her cow's milk, but they are unable to do it for two reasons: their financial condition and cow milk is deficient in this area,\" said Parwati, an auxiliary nurse midwife (ANM) stationed at Makara Public Health Centre (PHC).  Ajay's suffering did not end here. Fifteen days after his wife Pratibha's death, his 14-month-old niece (sister's daughter), Sarita, breathed her last on September 18, 2021. She too was found positive for the fatal Pf. After her fever shot up, she was taken to a hospital. She died on the way.  Sarita was said to have contracted the infection from her lactating mother, Kusum, 23, who was also tested positive for malaria parasite. When her daughter died, she was admitted to a private hospital at Robertsganj and given five units of platelets and two units of blood.  The mother of a three-year-old son, she had earlier lost a 14-month baby to the disease.  The dangerous disease has been wreaking havoc in at least six hamlets (Makara, Gadha, Bijul Jhariya, Aghariyah Didh Bodhrahwan, Ban Paisa) of Sindur Makara and Pati gram panchayats (village-governing bodies) in Sonbhadra's Myorpur block close, to the industrial town of Renukoot.  At least 40 deaths have been reported in the last two months in these hamlets, which together have a population of around 6,000 people.  Gond tribe, which is listed among the Scheduled Tribes (ST), makes up the bulk of the population here. According to the Census 2011, Sonbhadra's population is made up of around 23% Scheduled Castes and 21% Scheduled Tribes.  The villages are also inhabited by Other Backward Castes (OBC) such as Prajapati and Patel whose condition is no better.  The recent deaths and the saga of helplessness, however, have failed to shake the conscience of the government. The local administration or the government have not developed any infrastructure or additional facilities to ensure that the endemic does not return.  Close to Ajay's house lives 47-year-old Amravati and 65-year-old Manghi in a thatched, dilapidated house made of clay, straw and reeds. Both daughter- and mother-in-law duo lost their husbands to the disease. The family is now left with no male members - on whom the two women typically relied on for their livelihood.  Amravati's husband, Ram Pyare (48) died on August 15, 2021. He was sick with fever and abdominal pain. After his body temperature and the pain did not subside despite medication, he was taken to the Sonbhadra's district hospital where he was admitted and underwent treatment for a week. Even after several medical examinations, doctors were clueless about the disease.  He was referred to the BHU's medical college and hospital in Varanasi. But before he could be shifted, he breathed his last. He was reported to have been suffering from typhoid and malaria coinfection.  Five days after Pyare's death, his father, Ram Baran (70), too, died of malaria on August 20 last year after suffering from fever for two days. Because of the abject poverty and finances already drained due to the son's medical treatment, Ram Baran could not be taken to any hospital.  Amravati (L) with her mother-in-law Manghi (R). Both lost their husbands to malaria.  Now, Amravati has to sustain her only minor son and the ailing mother-in-law, who is unable to walk properly. \"Naa puchin saahib ki pariwar kaise chalat hai (don't ask us how we are surviving),\" said the visibly upset woman who hardly gets any work to earn livelihood.  It is the people around her who keep extending financial help to keep the family running. \"We only get free ration from the government and nothing else. There are no old age and widow pensions,\" she added.  Residents from these six hamlets told NewsClick that a majority of them (about 90%, claimed some) are deprived of the Pradhan Mantri Awas Yojna (PMAY), under which a sum of Rs 1.30 lakh is given to people in rural areas for construction of a pucca house. They have no reliable source of employment. They are allotted work under the Mahatma Gandhi National Rural Employment Guarantee (MGNREGA) Act, 2005, \"once in a blue moon\", but don't get payment for months together or even for as long as a year.  The villages have only one PHC at Makara where no doctor was available when NewsClick visited during the working hours. Two employees and an ANM (Parwati) were present at the health centre who said that the \"doctor saheb has just left\".  One of the officials, refusing to be named, said that the PHC caters to a large area only, but only one MBBS doctor is deputed here.  The state is facing a shortfall of 2,277 doctors. Its 942 primary health centres (PHCs) continue to operate without electricity, regular water supply and all-weather motorable approach road. The PHCs in the state have the worst patient-to-doctor ratio and infrastructure in the country to cater to the poorest patients.  Around two kilometres from Makara lies Gadha village where Uday Raj Gaud, 70, died 10 months back - just three days after he developed fever. He also had tested positive for malaria parasite.  \"The election of pradhans (village heads) was going on, and he was actively engaged in campaigning. One day, after he returned from the poll canvassing in the area, he complained of fever, breathlessness, and seizure. We rushed him to Hindalco Hospital where doctors refused to admit him. We did not have resources to take him to either a private hospital or district hospital, which is around 50 kilometres away from here; and therefore, we consulted quacks who also refused to treat him given his serious condition. He breathed his last as we were planning to rush him to the BHU's medical college,\" narrated Kalpa.  Not even two months had passed when Uday's 30-year-old son, Ram Charan -- a father of four minors -- died of malaria. He was unwell for one month. \"He had become so weak that he had stopped all movement a few days before his death,\" said his family members.  The family has 1.5 bigha (0.92 acre) of land between two brothers.  The people in these villages have very small landholdings. Because of being a water-deficient region, they depend mainly on rainfall. Due to low levels of groundwater (at a depth of 200-250 feet), irrigation using wells is not feasible. Pumping water from such a depth is expensive as well and not affordable to most of the residents here.  Mainly chana (gram), arhar (pigeon pea), masoor (lentil), mustard, onion, and wheat are grown here for household uses. The residents here don't do agricultural farming for commercial purposes as yield is too low in the water-starved region.  Of the total 250 pucca houses in the two panchayats, with around 5,000 residences, 100 have been constructed recently under the PMAY. The remaining 150 houses were constructed under the Indira Awas Yojna.  When the malaria deaths made the headlines in November last year, the district administration seemed to have woken up from its slumber. All high-ranking officials visited the affected villages. But months later, nothing seems to have been done to prevent the tragedy in future.  BJP MLA and minister Sanjeev Kumar Gond, who represents Obra (reserved) constituency (under which these hamlets fall), too had reached the villages and cited contaminated drinking water as the reason for the deaths.  Villagers were supplied drinking water through water tankers for some time. They were promised that water treatment plants would be set up in the villages, but nothing has happened so far. Even the temporary water supply has been stopped. The villagers are once again drinking the same \"contaminated\" water they get from the open wells in the region.  Gond, the minister for social welfare in the state government, had also promised that the deceased people's families would receive some compensation, but it turned out to be a lip service.  Talking about the prevailing situation in the affected villages, Sonbhadra's Chief Medical Officer Dr Nem Singh claimed, \"We are continuously running awareness campaigns. Malaria deaths have come down significantly. The officials who were found guilty of negligence have been removed from the areas, and show cause notices have been served to them.\"  He said that the Health Department is carrying out continuous fogging in the affected areas.  \"Water samples have also been taken. Every single death in these areas is being audited. We cannot force anyone to get medical treatments only from government hospitals, but we are constantly making people aware of the good and free treatment government hospitals provide,\" he said.  The villagers contradicted the claims, saying that the fogging had been done only once in November last year. They also showed details of the fogging written on the walls of most of the houses.  Unfortunately, this is not an issue in the ongoing elections. Representatives belonging to different political parties are reaching out to the villagers and giving them assurances. Though the Bharatiya Janata Party (BJP)'s flags unfurling atop almost every house in the villages is a common sight here, voters don't seem to vovalise their support to the ruling party.  OBRA CONSTITUENCY AT A GLANCE  Obra is one of the 403 Uttar Pradesh Legislative Assembly constituencies, which falls under the Sonbhadra district. The election will be held here on March 7 in the final phase.  In 2017, the Obra Assembly seat had 3,07,992 registered voters. Of them, 1,69,473 were male and 1,38,519 were female voters. 1.4% of the votes were casted for NOTA.  In 2017, 11 candidates were competing for the Obra Assembly constituency seat. Obra was one of 312 seats won by the BJP. It was a one-way contest with BJP's Sanjiv Kumar comfortably winning the election, defeating Samajwadi Party's Ravi Gond by a huge margin of 44,269 votes.  The top three candidates split 88.9% of the votes among them. The BJP got a total of 78,058 votes, while the SP secured 33,789 votes. Bahujan Samaj Party's candidate Virendra Pratap Singh grabbed the third spot with 29,113 votes. The top three parties got 49.2%, 21.3% and 18.4% of the votes respectively.  Bahujan Samaj Party's Sunil Kumar had defeated BJP's Devendra Prasad Shastri by 7,060 votes in the 2012 elections.  This time, the BJP and the SP are engaged in an intense face-off, with observers unable to make strong predictions.",
+    "Description": "INDIA - UP Polls: Over 40 Lives Recently Lost to Deadly Malaria, Healthcare Not a Poll Plank in Sonbhadra Villages\"Pratibha, 23, entered a wedlock with Ajay Kumar Prajapati, 25, on April 23, 2017. Two children were born to the couple. One is a three-year-old and the other is six months. In August 2021, Pratibha developed fever \u2014 which would often spike despite constant medication. She was expecting her youngest child and was seven months pregnant at that time.\"",
+    "reports": {
+      "diseases": [
+        "malaria"
+      ],
+      "syndromes": [],
+      "event_date": "03-23-2022T00:00:00",
+      "EventType": [
+        "Death",
+        "Infected"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "http://outbreaknewstoday.com/cow-infected-with-rabies-in-tuba-zangaria-upper-galilee-80335/",
+    "date_of_publication": "2022-03-06T21:01:00",
+    "headline": "ISRAEL - Cow Infected With Rabies In Tuba Zangaria - Upper Galilee",
+    "main_text": "Cow infected with rabies in Tuba Zangaria, Upper Galilee  NewsDesk @bactiman63  The Israel Ministry of Health reported on a cow infected with rabies found in Tuba-Zangaria (in the pasture between Tuba and Moshav Elifelet), in the Upper Galilee last week.  Two people are known to have been exposed to the cow and are receiving rabies post exposure prophylaxis (PEP).  Health officials ask anyone who has been in contact or whose animals came into contact in the area of   the incident with the infected animal or a stray animal, on the dates of February 14 to February 28, to contact the Safed Health Bureau urgently, phone 04-6994257, 04-6994200, or the health bureau nearest to his place of residence to weigh the need for preventive care.  The Ministry of Health again reminds those who have been bitten or scratched by an animal, to immediately wash the area with running water and soap, to disinfect with disinfectants and to approach the Health Bureau to check if preventive treatment against rabies is needed.    ",
+    "Description": "ISRAEL - Cow infected with rabies in Tuba Zangaria, Upper Galilee\"The Israel Ministry of Health reported on a cow infected with rabies found in Tuba-Zangaria (in the pasture between Tuba and Moshav Elifelet), in the Upper Galilee last week.\"",
+    "reports": {
+      "diseases": [
+        "rabies"
+      ],
+      "syndromes": [],
+      "event_date": "02-14-2022T00:00:00",
+      "EventType": [],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "http://outbreaknewstoday.com/eureka-shigella-outbreak-update-5-confirmed-cases-11-others-investigated-40204/",
+    "date_of_publication": "2022-03-06T20:59:00",
+    "headline": "CALIFORNIA - Eureka Shigella Outbreak Update - 5 Confirmed Cases - 11 Others Investigated",
+    "main_text": "Eureka Shigella outbreak update: 5 confirmed cases, 11 others investigated  NewsDesk @bactiman63  In a follow-up on the Shigella outbreak in Eureka, California, Humboldt County Public Health Nurse Daniel Tran reported Friday that the outbreak in the greater waterfront area has grown to five confirmed cases and 11 currently under investigation.  \"Shigella is a gastrointestinal bacteria, which is really just a fancy way of saying that it causes diarrhea, upset stomach, gas, and that kind of stuff. Typically this bacteria is found within a person's feces or stool and even though that's where it's typically found, you could still spread it if you've made contact with different surfaces that are not clean and disinfected,\" Tran said.  Shigella is transmitted by oral ingestion, meaning it must travel into the body through food or drink. The bacteria can come into contact with food and drink through contact with surfaces where the bacteria is located.  Subscribe to Outbreak News TV on YouTube  \"That means you do not have to worry about it being transmitted through the air, like if someone sneezed on you or any of that. This is really a surface problem,\" Tran said.    ",
+    "Description": "CALIFORNIA - Eureka Shigella outbreak update: 5 confirmed cases, 11 others investigated\"In a follow-up on the Shigella outbreak in Eureka, California, Humboldt County Public Health Nurse Daniel Tran reported Friday that the outbreak in the greater waterfront area has grown to five confirmed cases and 11 currently under investigation.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-11-2022T00:00:00",
+      "EventType": [
+        "Presence",
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 11071615
+        },
+        {
+          "geonames_id": 5703766
+        }
+      ]
+    }
+  },
+  {
+    "URL": "http://outbreaknewstoday.com/israel-jerusalem-child-tests-positive-for-polio-1st-case-in-over-three-decades-48435/",
+    "date_of_publication": "2022-03-06T20:58:00",
+    "headline": "&#8203;ISRAEL - Israel - Jerusalem Child Tests Positive For Polio - 1st Case In Over Three Decades",
+    "main_text": "Israel: Jerusalem child tests positive for polio, 1st case in over three decades  NewsDesk @bactiman63  The Israel Ministry of Health reported today a case of polio (child paralysis) in a 4-year-old child in Jerusalem who was unvaccinated.  The source of the disease in this case, a polio virus that has undergone changes and may cause disease in those who are not vaccinated.  This is the first case in Israel since 1989.  The Jerusalem District Health Bureau has opened an epidemiological investigation and will contact the child in close contact to provide specific instructions. Based on the findings of the investigation, further recommendations will be decided.  It should be noted that the virus is found in sewage samples in the area, a finding that occurs occasionally, but so far in similar incidents in the past there have been no clinical cases.  The most important means of preventing polio is to adhere to routine immunizations at the recommended time according to the guidelines of the Ministry of Health. It is recommended to complete routine immunizations as soon as possible for those who have not yet done so.  Subscribe to Outbreak News TV on YouTube  Polio is an infectious disease caused by the polio virus. The virus is contagious and is transmitted from person to person (especially in children). The virus enters the body through the mouth and is excreted in the feces. There are usually no signs of illness and only one in a thousand people (who are not vaccinated) will develop symptoms symptomatically with paralysis.  Health officials will continue to update the public as needed as the investigation progresses.    ",
+    "Description": "ISRAEL - Israel: Jerusalem child tests positive for polio, 1st case in over three decades\"The Israel Ministry of Health reported today a case of polio (child paralysis) in a 4-year-old child in Jerusalem who was unvaccinated.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-01-2022T00:00:00",
+      "EventType": [],
+      "Locations": [
+        {
+          "geonames_id": 294640
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.chiangraitimes.com/news/thailand-issues-warning-over-bird-flu/",
+    "date_of_publication": "2022-03-06T18:57:00",
+    "headline": "THAILAND - Thailand Issues Bird Flu Warning After Outbreaks In 30 Countries",
+    "main_text": "",
+    "Description": "THAILAND - Thailand Issues Bird Flu Warning after Outbreaks in 30 Countries\"Thailand\u2019s Department of Livestock Development (DLD) has issued a warning to poultry farmers that deadly strains of highly pathogenic avian influenza (HPAI) have been detected in several countries.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-30-2022T00:00:00",
+      "EventType": [],
+      "Locations": [
+        {
+          "geonames_id": 1605651
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://euroweeklynews.com/2022/03/06/two-new-outbreaks-of-bird-flu-in-andalucia/",
+    "date_of_publication": "2022-03-06T18:56:00",
+    "headline": "SPAIN - Two New Outbreaks Of Bird Flu In Andalucia",
+    "main_text": "Authorities in the province of Sevilla have reported the detection of two new outbreaks of bird flu. This brings the total in Andalucia to 22 cases.  The Ministry of Agriculture announced today, Saturday, March 5, that these two latest discoveries have been uncovered on turkey farms in the municipalities of Estepa and El Rubio, both inside the restricted area laid out after   the previous reported outbreaks.  Of the 22 poultry farms affected in Andalucia, six are in the province of Huelva, and the rest are in Sevilla. The farm in El Rubio has around 10,000 turkeys with a mortality rate of about 80 per cent, while in Estapa, the farm has approximately 24,000 birds, with almost 90 per cent mortality.  Following the established procedure, the Veterinary Services of the Junta de Andalucia immediately sent the first birds showing symptoms compatible with the disease, and an increase in mortality, to the Central Laboratory in Algete. This is the National Reference Laboratory for avian influenza.  According to the source, once again, it is a strain of the H5N1 subtype, the same one that has appeared in recent months in different parts of the European continent.  There is no evidence that H5N1 can be passed to humans, although it is recommended not to expose oneself to birds that show symptoms compatible with bird flu, or are found dead outdoors.  There are an estimated 5 million birds on about 600 farms within the current restriction zones. To facilitate the movement of birds from within these areas the Ministry of Agriculture has established a channelled exit procedure to the slaughterhouse, which is being carried out in coordination with the Health authorities.  Andalucia's official veterinary services are putting into measures into practice that are necessary to control the active foci of this avian influenza, while establishing the corresponding surveillance and protection tasks. It is also working on the prevention of the spread of the disease in Andalucia, as reported by laopiniondemalaga.es.  ___________________________________________________________  Thank you for taking the time to read this article, do remember to come back and check The Euro Weekly News website for all your up-to-date local and international news stories and remember, you can also follow us on Facebook and Instagram.",
+    "Description": "SPAIN - Two new outbreaks of bird flu in Andalucia\"Authorities in the province of Sevilla have reported the detection of two new outbreaks of bird flu. This brings the total in Andalucia to 22 cases.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-22-2022T00:00:00",
+      "EventType": [
+        "Presence",
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 2510769
+        }
+      ]
+    }
+  },
+  {
+    "URL": "http://www.magnoliareporter.com/news_and_business/local_business/article_05135622-9d34-11ec-8c6b-f7e81300febd.html",
+    "date_of_publication": "2022-03-06T18:55:00",
+    "headline": "ARKANSAS - H5N1 Avian Influenza Creeping Closer To Arkansas",
+    "main_text": "I am not worried about the war spreading.  It may spread, but U.S. involvement will not be great  The United States is already much more involved than the public generally knows.  These days will be remembered as the start of the Third World War.  Vote  View Results",
+    "Description": "ARKANSAS - H5N1 avian influenza creeping closer to Arkansas\"A deadly strain of avian flu is creeping closer to Arkansas, having claimed a commercial broiler flock in southeastern Missouri.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "05-17-2022T00:00:00",
+      "EventType": [
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 4099753
+        },
+        {
+          "geonames_id": 12213626
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.reuters.com/world/china/chinese-city-qingdao-reports-omicron-outbreak-among-students-2022-03-06/",
+    "date_of_publication": "2022-03-06T18:54:00",
+    "headline": "CHINA - Chinese City Of Qingdao Reports Omicron Outbreak Among Students",
+    "main_text": "Medical workers inoculate students with the vaccine against the coronavirus disease (COVID-19) at a university in Qingdao, Shandong province, China March 30, 2021. China Daily via REUTERS  BEIJING, March 6 (Reuters) - The Chinese port city of Qingdao reported 88 new coronavirus cases for March 5, all of them of the Omicron variant, fuelling China's highest number of daily locally transmitted cases so far this year.  China recorded 329 new coronavirus cases on the mainland on Saturday, 175 of them locally transmitted, the National Health Commission (NHC) said on Sunday, compared with 102 local cases a day earlier.  The Qingdao outbreak was mainly among middle school students in Laixi county, the Qingdao Municipal Health Commission said.  Register now for FREE unlimited access to Reuters.com Register  Laixi county will implement a second round of mass testing on March 7, a Qingdao official said at a news conference on Sunday, adding that there was no major risk of further outbreak.  China's \"dynamic clearance\" approach to COVID-19 aims shut off transmission routes as soon as new cases are detected.  The Qingdao outbreak helped send China's total local confirmed case count to its highest since Dec. 31, with other cases reported mainly in Jilin, Guangdong and Hebei provinces, according to the NHC.  The number of new asymptomatic cases, which China does not classify as confirmed cases, stood at 209, compared with 166 a day earlier.  As of March 5, mainland China had confirmed 110,868 COVID-19 cases and 4,636 fatalities.  The Qingdao health authority also reported 27 new cases for Sunday as of 0600 GMT, all among people already under quarantine in Laixi county. China's total Sunday figures will be released on March 7.  Register now for FREE unlimited access to Reuters.com Register  Reporting by Min Zhang and Tony Munroe; Editing by David Gregorio and Christopher Cushing  Our Standards: The Thomson Reuters Trust Principles.",
+    "Description": "CHINA - Chinese city of Qingdao reports Omicron outbreak among students\"The Chinese port city of Qingdao reported 88 new coronavirus cases for March 5, all of them of the Omicron variant, fuelling China's highest number of daily locally transmitted cases so far this year.\"",
+    "reports": {
+      "diseases": [
+        "COVID-19"
+      ],
+      "syndromes": [],
+      "event_date": "03-30-2021T00:00:00",
+      "EventType": [
+        "Presence",
+        "Death"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 1797929
+        },
+        {
+          "geonames_id": 1814991
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.rajexpress.co/india/central-india/madhya-pradesh/gwalior-news-cases-of-corona-decreased-now-dengue-patients-started-increasing",
+    "date_of_publication": "2022-03-06T18:54:00",
+    "headline": "INDIA - Gwalior - If The Corona Cases Have Come Down - Now The Dengue Patients Have Started Increasi",
+    "main_text": "ddeNguu sNkrmitoN kii sNkhyaa hr maah bddh'tii jaa rhii hai /  shnivaar ko do mriijoN meN ddeNguu kii pussttii huii hai /  gulaab purii ke 20 vrssiiy dhrmeNdr rjk aur 43 vrssiiy urmilaa ptnii raambrn ko kuch din se bukhaar aa rhaa thaa /  haath pair meN drd bhii thaa /  ilaaj lene pr bukhaar nhiiN ttuuttaa tb usne ddaakttr ke praamrsh pr ddeNguu kii jaaNc kraaii thii /  jaaNc riportt meN ddeNguu kii pusstti huii hai /  is saal ddeNguu ke 6 mriij ab tk mil cuke haiN /  ddeNguu kes tejii se bddh'te jaa rhe haiN /  jin ghroN meN ddeNguu ke mriij mil rhe haiN, vhaaN jilaa mleriyaa vibhaag kii ttiim phuNckr aaspaas ke ghroN meN bhii srve kr rhii hai /  jisse ddeNguu ke laarvaa ko khojkr use nsstt kiyaa jaa ske /  udhr jilaa mleriyaa vibhaag ne bhii ddeNguu laarvaa srve kaa kaam shuruu kr diyaa hai /  vishess ruup se pichle saal jin ghroN meN ddeNguu ke adhik mriij mile the, vhaaN pr vishess phoks kiyaa jaa rhaa hai / ",
+    "Description": "INDIA - Gwalior: If the corona cases have come down, now the dengue patients have started increasing\"after the decrease in corona cases, now the threat of dengue has started looming large on the city. the number of dengue patients has now started increasing rapidly. the health department and the district malaria department are making efforts on their part, but the people can save themselves and their families from this serious disease by adopting a little awareness.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-20-2022T00:00:00",
+      "EventType": [],
+      "Locations": [
+        {
+          "geonames_id": 1269750
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.thehansindia.com/andhra-pradesh/andhra-pradesh-two-women-dead-due-to-rabies-caused-by-cat-bite-in-krishna-district-732139",
+    "date_of_publication": "2022-03-06T18:53:00",
+    "headline": "INDIA - Andhra Pradesh - Two Women Dead Due To Rabies Caused By Cat Bite In Krishna District",
+    "main_text": "In a tragic incident, two women have died of rabies after being bitten by a cat in Vemulamada in the Movva mandal of Krishna district. Going into the details, retirement RTC conductor Sally Bhagya Rao's wife Kamala (64) from Vemulamada SC colony, and Nagmani (43), wife of RMP doctor Boddu Baburao from the same colony, were bitten by a cat two months ago. At the time, both women had undergone TT injection and were on medication. They are doing their job as usual after relief.    Meanwhile, four days ago, Kamala and Nagmani went to a corporate hospital for treatment due to a change in their health. However, it has not improved. Kamala died at 10 am on Saturday while undergoing treatment at the Mangalagiri NRI Hospital in Guntur district. Nagmani underwent treatment at PHC on Friday and was admitted to a corporate hospital in Vijayawada as per the instructions of the doctors there. She also died Saturday morning while receiving treatment.    Medical officer Dr Shonthi Sivarama Krishna Rao said two of the dead women were infected with rabies. He said the body was poisoned due to untimely medical services. The villagers said that the cat that bit the women was bitten by a dog and the dog also died a few days later.",
+    "Description": "INDIA - Andhra Pradesh: Two women dead due to rabies caused by cat bite in Krishna district\"In a tragic incident, two women have died of rabies after being bitten by a cat in Vemulamada in the Movva mandal of Krishna district.\"",
+    "reports": {
+      "diseases": [
+        "rabies"
+      ],
+      "syndromes": [],
+      "event_date": "03-19-2022T10:00:00",
+      "EventType": [],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "http://outbreaknewstoday.com/bird-flu-confirmed-in-maryland-chicken-flock-90906/",
+    "date_of_publication": "2022-03-05T18:52:00",
+    "headline": "MARYLAND - Bird Flu Confirmed In Maryland Chicken Flock",
+    "main_text": "Bird flu confirmed in Maryland chicken flock  NewsDesk @bactiman63  The United States Department of Agriculture's (USDA) Animal and Plant Health Inspection Service (APHIS) has confirmed the presence of highly pathogenic avian influenza (HPAI) in a flock of commercial layer chickens in Cecil County, Maryland.  Samples from the flock were tested at the University of Delaware's Allen Laboratory, part of the National Animal Health Laboratory Network, and confirmed at the APHIS National Veterinary Services Laboratories (NVSL) in Ames, Iowa.  APHIS is working closely with state animal health officials in Maryland on a joint incident response. State officials quarantined the affected premises, and birds on the property will be depopulated to prevent the spread of the disease. Birds from the flock will not enter the food system.  According to the U.S. Centers for Disease Control and Prevention, the recent HPAI detections do not present an immediate public health concern.",
+    "Description": "MARYLAND - Bird flu confirmed in Maryland chicken flock\"The United States Department of Agriculture\u2019s (USDA) Animal and Plant Health Inspection Service (APHIS) has confirmed the presence of highly pathogenic avian influenza (HPAI) in a flock of commercial layer chickens in Cecil County, Maryland.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "2022-03-17",
+      "EventType": [
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 4361885
+        }
+      ]
+    }
+  },
+  {
+    "URL": "http://outbreaknewstoday.com/russia-18-cases-of-opisthorchiasis-were-registered-in-penza-region-in-2021/",
+    "date_of_publication": "2022-03-05T18:52:00",
+    "headline": "RUSSIA - Russia - 18 Cases Of Opisthorchiasis Were Registered In Penza Region In 2021",
+    "main_text": "Russia: 18 cases of Opisthorchiasis were registered in Penza region in 2021  NewsDesk @bactiman63  Penza Oblast, located about 400 miles southeast of Moscow, saw 18 cases of the parasitic disease, Opisthorchiasis, in 2021, according to the regional department of Rospotrebnadzor.  Four of the cases were reported in children.  The natural foci of opisthorchiasis in the Penza region are the Bessonovsky, Luninsky and Shemysheysky districts.  Rospotrebnadzor says the incidence is due to an increase in the amount of home-cooked fish and fish products in the diet of residents of coastal cities and towns, an increase in the number of amateur fishermen and poachers, uncontrolled export of fish and fish products from opisthorchiasis and diphyllobothriasis foci, and the sale of fish and fish products in unauthorized markets.  The most common parasites linked to fish consumption (raw and undercooked) include opisthorchiasis, clonorchiasis, diphyllobothriasis, anisakiasis.  The Opisthorchiidae of importance to humans are Opisthorchis felineus, Opisthorchis viverrini, and Clonorchis sinensis, each of which has a discrete, though occasionally overlapping, geographical distribution: O. felineus is endemic in Europe and Russia.  The morbidities associated with opisthorchiasis are largely hepatobiliary, specifically stemming from bile duct fibrosis and cholangitis, and are expressed in a variety of manifestations, such as obstructive jaundice, hepatomegaly, abdominal pain, and nausea.  Related:  Russia: Rare echinococcosis case reported in the Volgograd region  Bird flu outbreak reported in Bashkiria, Russia  Russia: Yersinia enterocolitica outbreak reported in Norilsk  Ukraine: Dirofilariasis case reported in Melitopol  Ukraine: Polio case reported in Transcarpathia child",
+    "Description": "RUSSIA - Russia: 18 cases of Opisthorchiasis were registered in Penza region in 2021\"Penza Oblast, located about 400 miles southeast of Moscow, saw 18 cases of the parasitic disease, Opisthorchiasis, in 2021, according to the regional department of Rospotrebnadzor.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-18-2022T00:00:00",
+      "EventType": [
+        "Presence"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 524901
+        },
+        {
+          "geonames_id": 2017370
+        }
+      ]
+    }
+  },
+  {
+    "URL": "http://outbreaknewstoday.com/norovirus-on-the-rise-in-taiwan-28509/",
+    "date_of_publication": "2022-03-05T18:51:00",
+    "headline": "TAIWAN - Norovirus On The Rise In Taiwan",
+    "main_text": "Norovirus on the rise in Taiwan  NewsDesk @bactiman63  The Taiwan Centers for Disease Control and Prevention (CDC) reported Thursday that the number of hospital visits for diarrhea in the country has increased recently, and the pathogens detected in cluster incidents are mainly norovirus.  The public is advised to pay attention to food safety and hand hygiene. Seek medical attention as soon as possible and take rest at home if you are sick; catering and accommodation operators must strengthen environmental hygiene management and pay attention to the health status of employees. If you have suspected symptoms, please suspend work immediately to reduce the risk of virus transmission.  According to the monitoring data of the CDC, there were a total of 110,783 outpatient and emergency visits for diarrhea in Taiwan last week (February 20 to February 26), a slight increase from the number of visits in the past two weeks (109,522 in the 7th and 6th weeks, 109,289), but lower than the same period in recent years. In previous years, the number of patients with diarrhea was likely to increase after consecutive holidays. In the past four weeks (weeks 5 to 8), a total of 83 diarrhea cluster reports were received across the country. There were 49 positive cases of pathogen detection, mainly norovirus (46 cases, accounting for 94%).  Subscribe to Outbreak News TV on YouTube  The Centers for Disease Control and Prevention pointed out that viral gastroenteritis is extremely contagious, and people of any age may be in close contact with patients by eating contaminated food or drinking water, touching contaminated items with their hands, then touching their own mucous membranes of mouth, nose or eyes. Infection by contact with or inhalation of droplets produced by the vomitus and excrement of patients. Common symptoms are diarrhea, vomiting, and may be accompanied by fever, headache, stomach pain, nausea, muscle aches, etc. The symptoms usually last from 1 to 10 days. Factors such as the patient's age, personal health status, infected pathogens, and the amount of contaminated food eaten will affect the symptoms and their severity. People with particularly weak resistance will have more severe symptoms.  The CDC calls on effective prevention methods to wash hands properly after going to the toilet, before eating or preparing food, and do personal protection; food hygiene should be paid attention to when cooking dishes, raw and cooked food should be handled separately, and eggs that are not fully heated should be avoided. , meat or raw shellfish. In addition, hotel and catering operators are requested to implement disinfection and cleaning of kitchens and toilets, and pay attention to the hygiene and health of staff (especially kitchen workers). If you have suspected symptoms (especially food workers), you should rest at home until Return to school or work at least 48 hours after symptoms are relieved to avoid infecting others.",
+    "Description": "TAIWAN - Norovirus on the rise in Taiwan\"The Taiwan Centers for Disease Control and Prevention (CDC) reported Thursday that the number of hospital visits for diarrhea in the country has increased recently, and the pathogens detected in cluster incidents are mainly norovirus.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-17-2022T00:00:00",
+      "EventType": [
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 1668284
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.vanguardngr.com/2022/03/nearly-5000-birds-at-risk-as-bird-flu-erupts-in-kebbi/",
+    "date_of_publication": "2022-03-05T18:50:00",
+    "headline": "NIGERIA - Nearly 5000 Birds At Risk - As Bird Flu Erupts In Kebbi",
+    "main_text": "",
+    "Description": "NIGERIA - Nearly 5000 Birds at risk, as Bird flu erupts in Kebbi\"Kebbi state Ministry of Animals Health Husbandry and Fisheries, Saturday, announced the outbreak of avian influenza also known as bird flu in two local government areas of Kebbi state.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-17-5000T00:00:00",
+      "EventType": [
+        "Presence"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.reporter.am/6-cases-of-botulism-with-10-victims-were-registered-in-armenia/",
+    "date_of_publication": "2022-03-05T18:51:00",
+    "headline": "ARMENIA - 6 Cases Of Botulism With 10 Victims Were Registered In Armenia",
+    "main_text": "Since January 1, 2022, 6 cases of botulism with 10 victims have been registered in Armenia, according to the National Center for Disease Control and Prevention of the RA Ministry of Health.  Taking into account the severe course of the disease, in order to avoid further complications, the RA Ministry of Health urges:  Avoid home-made canned food  Heat home-made canned food by boiling it for 20-25 minutes before using it.  do not buy home-made canned food from the market or random individuals;  See a doctor immediately as soon as the first symptoms appear.  The main symptoms of botulism are nausea, vomiting, diarrhea, or constipation. shortness of breath, obstruction of the act of aspiration, unilateral paralysis. These symptoms appear 2-3 hours to 10 days after eating the affected food.  Botulism is a severe food poisoning caused by Clostridium botulinum. The pathogen is found in the external environment, in the soil by the eggs of spores, from where it spreads to vegetables and greens. Anodic conditions are required for the growth and development of this pathogen, where it reproduces and produces venom. Such conditions are created in hermetically sealed cans. Destruction of the pathogen is possible only in special devices, under the influence of high pressure (1.5-2 atmospheres) ew heat (120-130 deg C) in autoclaves, which are available only in canning companies. These conditions cannot be met at home.  Food affected by botulism does not change its taste, smell, color ew appearance.",
+    "Description": "ARMENIA - 6 cases of botulism with 10 victims were registered in Armenia\"Since January 1, 2022, 6 cases of botulism with 10 victims have been registered in Armenia, according to the National Center for Disease Control and Prevention of the RA Ministry of Health.\"",
+    "reports": {
+      "diseases": [
+        "botulism"
+      ],
+      "syndromes": [],
+      "event_date": "03-10-2022T00:00:00",
+      "EventType": [
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 174982
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.coventrytelegraph.net/news/health/highly-contagious-norovirus-outbreak-uk-23282917",
+    "date_of_publication": "2022-03-05T18:49:00",
+    "headline": "UNITED KINGDOM - Highly Contagious Norovirus Outbreak In The UK With A Surge In Cases - These Are Th",
+    "main_text": "We have more newsletters  Thank you for subscribing!  Something went wrong, please try again later.  Never miss a story and read the latest headlines with our free email updates  There has been a rise in norovirus outbreaks in care homes in recent weeks as authorities warn of a surge in cases across the country.  Norovirus, also known as the winter vomiting bug, is highly contagious and causes vomiting and diarrhoea.  UK Health Security Agency (UKHSA) is now urging people to take extra precautions with the number of cases on the increase.  Read more Coventry news  The highly contagious virus can be present in schools, hospitals, nursing homes and public places and is easily transmitted on contaminated surfaces.  From the end of January to February, norovirus cases have skyrocketed, particularly in nursery and childcare facilities, with 48 per cent more incidents reported to UKHSA than would be expected.  Reports of norovirus outbreaks in care home settings have also increased in recent weeks, with a rise from 24 reported in week 6 (w/c 7 February) to 40 reported in week 7 (w/c 14th February) of 2022.  Professor Saheer Gharbia, Gastrointestinal Pathogens & Food Safety Directorate at UKHSA, said: \"Norovirus, commonly known as the winter vomiting bug, has been at lower levels than normal throughout the pandemic but as people have begun to mix more, the numbers of outbreaks have started to increase again.  \"Symptoms include sudden onset of nausea, projectile vomiting and diarrhoea but can also include a high temperature, abdominal pain and aching limbs.\"  There are six main symptoms of norovirus, which include:  Vomiting  Watery diarrhoea  Feeling sick  Aching arms and legs  A high temperature  A headache  The UK Health Security Agency has urged anyone who experiences norovirus symptoms to stay at home.  Symptoms usually last for a few days before you recover.  To prevent yourself from contracting the virus, wash your hands frequently with soap and water because alcohol hand gels do not kill the virus.  Stay at home if you are experiencing norovirus symptoms, the UK Health Security Agency say.  Do not return to work or send children to school until 48 hours after symptoms have cleared, as you are required to isolate yourself at home during this period, doctors say.  Also avoid visiting elderly or poorly relatives, particularly if they are in hospital or a care home.  The NHS warned: \"Stay off school or work until you have not been sick or had diarrhoea for at least 2 days.  \"This is when you're most infectious. Do not visit hospitals or care homes during this time.\"  Keep up with all of the latest local news with our daily newsletter.",
+    "Description": "UNITED KINGDOM - 'Highly contagious' norovirus outbreak in the UK with a surge in cases - these are the six symptoms\"There has been a rise in norovirus outbreaks in care homes in recent weeks as authorities warn of a surge in cases across the country.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "01-17-2022T00:00:00",
+      "EventType": [
+        "Presence",
+        "Recovered"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://bengali.news18.com/news/local-18/jalpaiguri-dengue-spreading-rapidly-at-maynaguri-753915.html",
+    "date_of_publication": "2022-03-05T18:48:00",
+    "headline": "INDIA - Jalpaiguri - Dengues Paw In Mayanagudi In The Midst Of Coronas Eyes",
+    "main_text": "",
+    "Description": "INDIA - Jalpaiguri: Dengue's paw in Mayanagudi in the midst of corona's eyes\"in the midst of corona's eyes, dengue's paw in mayanaguri. the incident took place in the cinema hall para area of ward no. 4 of mayanaguri block of jalpaiguri district. a dengue virus was found in the body of a person in the local area. that's how it spread throughout the area.\"",
+    "reports": {
+      "diseases": [
+        "dengue"
+      ],
+      "syndromes": [],
+      "event_date": "05-04-2022T00:00:00",
+      "EventType": [
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 8582213
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.theeastafrican.co.ke/tea/science-health/kenya-declares-yellow-fever-outbreak-3738068",
+    "date_of_publication": "2022-03-05T18:47:00",
+    "headline": "KENYA - Kenya Declares Yellow Fever Outbreak After Three Die In Isiolo",
+    "main_text": "By ANGELA OKETCH More by this Author  Kenya has declared a yellow fever outbreak after Isiolo County, in upper eastern Oregon, reported new cases, a statement by the Ministry of Health states.  Three people have died while more than 20 people contracted the yellow fever virus in Imerti and Garbatulla Sub-counties in the last one month, the notice signed by acting Director-General of Health, Dr Patrick Amoth, said.  In the March 5 report, the Ministry noted that out of the six samples that were tested by the Kenya Medical Research Institute, three of them turned positive and an alert has since been sent to all the 47 counties. Counties bordering Isiolo have been placed in the high-risk bracket.  Dr Amoth said the first case was detected on January 12 and since then, 15 suspected cases have been identified presenting with symptoms including headache, fever, jaundice, muscles and joint pains.  Amongst the patients, the youngest is an 11-year-old while the oldest is 65. Young male adults are the majority of the infected.  \"This is, therefore, to raise an alarm in all the 47 counties more so the high-risk counties including Wajir, Garissa, Marsabit, Meru, Samburu, Baringo, Elgeyo Marakwet, West Pokot and Turkana,\" the statement says.",
+    "Description": "KENYA - Kenya declares yellow fever outbreak after three die in Isiolo\"Kenya has declared a yellow fever outbreak after Isiolo County, in upper eastern Oregon, reported new cases, a statement by the Ministry of Health states.\"",
+    "reports": {
+      "diseases": [
+        "yellow fever"
+      ],
+      "syndromes": [],
+      "event_date": "03-20-2022T00:00:00",
+      "EventType": [
+        "Presence",
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 192950
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.youtube.com/watch?v=ThyOdGOgQEM",
+    "date_of_publication": "2022-03-05T18:47:00",
+    "headline": "AUSTRALIA - Seven Cases Of Mosquito-Borne Japanese Encephalitis Confirmed In Australia",
+    "main_text": "",
+    "Description": "AUSTRALIA - Seven cases of mosquito-borne Japanese encephalitis confirmed in Australia\"At least seven Australians have been confirmed as having mosquito-borne Japanese encephalitis with case numbers expected to rise.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [
+        "Encephalitis"
+      ],
+      "event_date": "2022-03-17",
+      "EventType": [],
+      "Locations": [
+        {
+          "geonames_id": 2077456
+        },
+        {
+          "geonames_id": 2077456
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.fas.usda.gov/data/china-african-swine-fever-xinjiang-notified",
+    "date_of_publication": "2022-03-03T18:46:00",
+    "headline": "CHINA - China - African Swine Fever In Xinjiang Notified",
+    "main_text": "On February 28, 2022, China's Ministry of Agriculture and Rural Affairs (MARA) notified the U.S. Embassy in Beijing that on February 23, 2022, China detected a recurrence of African Swine Fever (ASF) in the Xinjiang Uygur Autonomous Region. China is continuing to monitor the situation. China has notified this detection to the World Organization for Animal Health (OIE).",
+    "Description": "CHINA - China: African Swine Fever in Xinjiang Notified\"On February 28, 2022, China\u2019s Ministry of Agriculture and Rural Affairs (MARA) notified the U.S. Embassy in Beijing that on February 23, 2022, China detected a recurrence of African Swine Fever (ASF) in the Xinjiang Uygur Autonomous Region. China is continuing to monitor the situation. China has notified this detection to the World Organization for Animal Health (OIE).\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "02-28-2022T00:00:00",
+      "EventType": [],
+      "Locations": [
+        {
+          "geonames_id": 1816670
+        },
+        {
+          "geonames_id": 1814991
+        },
+        {
+          "geonames_id": 1529047
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.livehindustan.com/uttar-pradesh/jaunpur/story-happer-and-black-fungus-outbreak-on-mango-crop-5946437.html",
+    "date_of_publication": "2022-03-03T18:45:00",
+    "headline": "INDIA - Outbreak Of Hapar And Black Fungus On Mango Crop",
+    "main_text": "",
+    "Description": "INDIA - outbreak of hapar and black fungus on mango crop\"the mango crop is now witnessing outbreaks of mango hopper pests and black fungus in many places. after the rain, the possibility of this pest and disease increases as the moisture increases in the atmosphere..\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "2022-03-17",
+      "EventType": [
+        "Presence"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 1269750
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.bhaskar.com/local/bihar/patna/tharthari/news/smallpox-outbreak-in-ganga-vigha-village-no-news-to-the-department-129467680.html",
+    "date_of_publication": "2022-03-05T23:04:00",
+    "headline": "INDIA - Smallpox Outbreak In Ganga Vigha Village - No News To Department",
+    "main_text": "Hindi News  Local  Bihar  Patna  Tharthari  Smallpox Outbreak In Ganga Vigha Village, No News To The Department  ceck kaa prkop: gNgaa vighaa gaaNv meN ceck kaa prkop, vibhaag ko khbr nhiiN  thrthrii 12 din phle    koNpii liNk  prbhaavit mriijoN kii sNkhyaa ek drjn se adhik hai  kchriyaa pNcaayt ke gNgaa vighaa gaaNv meN ceck kaa prkop phail gyaa hai /  yhaaN ceck se prbhaavit mriijoN kii sNkhyaa ek drjn se adhik btaaii jaa rhii hai /  gaaNv meN dhsht kaa maahaul hai /  lekin svaasthy vibhaag isse bekhbr hai /  gNgaa vighaa gaaNv meN pNdrh din se bhii adhik smy se rog phailaa huaa hai /  jismeN dinoN din ne mriijoN kii sNkhyaa meN ijaaphaa ho rhaa hai /  vrtmaan meN jiteNdr kumaar, sukhiyaa kumaarii, sviittii kumaarii, raajiiv kumaar, rnnviir kumkr, khushii kumaarii smet kii log ceck kaa prkop jhel rhe haiN /  in logoN ne khaa ki ceck hone se hm log ke bdn meN kaaphii jln hai /  tej bukhaar rhtaa hai /  puure bdn meN phodddhe bn ge hai /  graamiinn shivnNdn vind, mnoj vind ne btaayaa ki svaasthy vibhaag dvaaraa abhii tk bcaav sNbNdhit koii kdm nhiiN utthaae ge haiN /  jbki koii nyaa mriij ceck kii cpett meN n aae, isko lekr kaaphii dhsht dekhii jaa rhii hai /  is sNbNdh meN prbhaarii cikitsaa pdaadhikaarii ddoN. prmod kumaar se puuchne pr btaayaa ki gNgaa vighaa meN drjnoN bccoN ko ceck ke prkop kii jaankaarii nhii thii /  suucnaa milii hai svaasthy vibhaag kii ttiim gaaNv phuNc kr ceck ke sNkrmnn kii rokthaam ke lie dvaa shit any suvidhaaeN uplbdh kraane kii dishaa meN phl kii jaaegii  / ",
+    "Description": "INDIA - smallpox outbreak in ganga vigha village, no news to department\"the outbreak of smallpox has spread in ganga vigha village of katiharia panchayat. the number of patients affected by smallpox here is said to be more than a dozen.\"",
+    "reports": {
+      "diseases": [
+        "smallpox"
+      ],
+      "syndromes": [],
+      "event_date": "03-12-2022T00:00:00",
+      "EventType": [],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://gujarati.news18.com/photogallery/madhya-gujarat/panchmahal-godhara-unbridled-rage-rabies-horse-violence-in-residential-area-rescued-by-animal-helpline-team-mp-1185802.html",
+    "date_of_publication": "2022-03-05T23:04:00",
+    "headline": "INDIA - After The Impact Of Rabies In Godhra - The Horse Became Uncontrollable - The Locals Took Ove",
+    "main_text": "",
+    "Description": "INDIA - after the impact of rabies in godhra, the horse became uncontrollable, the locals took over the entire area\"a horse went out of control in lillesara area of godhra city. he had picked up two pedestrians as he was stuttering. there was a flutter among the residents who were injured by the horse.\"",
+    "reports": {
+      "diseases": [
+        "rabies"
+      ],
+      "syndromes": [],
+      "event_date": "2022-03-17",
+      "EventType": [],
+      "Locations": [
+        {
+          "geonames_id": 1269750
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.ruetir.com/2022/03/05/swine-fever-52-cases-in-piedmont-meeting-in-the-province-of-alessandria-on-containment-measures/",
+    "date_of_publication": "2022-03-05T23:03:00",
+    "headline": "ITALY - Swine Fever - 52 Cases In Piedmont - Meeting In The Province Of Alessandria On Containment M",
+    "main_text": "Alexandria - They rise to 52 confirmed cases of swine fever. A new positivity was in fact detected in Silvano d'Orba (Alessandria), in Piedmont, where a case had already been reported. The positivity was always ascertained in the 'infected' area; in Piedmont they become 29, while in Liguria they remain 23.  In the meantime, in the Province of Alessandria, it was presented today the containment plan. The mayors expressed some doubts about the protection network provided along the highways and asked the Region to set up meetings with the competent ministries for economic compensation as soon as possible. Also requested the liberalization of the paths, which in the infected area are currently prohibited for any activity. A meeting with Angelo Ferrari, the new extraordinary commissioner for the swine fever emergency, is scheduled for the next few days.",
+    "Description": "ITALY - Swine fever, 52 cases in Piedmont. Meeting in the province of Alessandria on containment measures\"They rise to 52 confirmed cases of swine fever. A new positivity was in fact detected in Silvano d\u2019Orba (Alessandria), in Piedmont, where a case had already been reported. The positivity was always ascertained in the \u2018infected\u2019 area; in Piedmont they become 29, while in Liguria they remain 23.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-29-2022T00:00:00",
+      "EventType": [],
+      "Locations": [
+        {
+          "geonames_id": 3175395
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.bbc.com/news/uk-england-nottinghamshire-60626968",
+    "date_of_publication": "2022-03-05T23:02:00",
+    "headline": "UNITED KINGDOM - Avian Flu - Warning After Case Confirmed At Newstead Abbey",
+    "main_text": "Visitors have been told not to touch or feed the birds and dog owners have been advised to keep their pets on a lead.",
+    "Description": "UNITED KINGDOM - Avian flu: Warning after case confirmed at Newstead Abbey\"People have been urged not to feed or touch wild birds after confirmed cases of avian flu on the grounds of a historic house.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "2022-03-17",
+      "EventType": [],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.walesonline.co.uk/news/wales-news/bird-flu-cardiff-roath-park-23297703",
+    "date_of_publication": "2022-03-05T23:02:00",
+    "headline": "UNITED KINGDOM - Bird Flu Discovered At Cardiffs Roath Park Lake With Seven Birds Suspected To Have",
+    "main_text": "Something went wrong, please try again later.  Sign up here to get the CardiffOnline newsletter sent straight to your inbox  A warning has been issued by Cardiff Council after a case of bird flu was confirmed at a popular city park.  People have been urged to avoid touching or feeding birds at any park across the capital, following the discovery at Roath Park Lake earlier this week.  A goose is now confirmed to have died of avian flu, while a further six birds were also found dead at the park this week, with wardens believing these deaths were also caused by the virus.  Read more:The mistake on a Welsh road sign that's been spinning people around  It comes just weeks after a swan found dead at the Knap Lake in Barry also tested positive for avian flu, with more than a dozen other carcasses found at the lake since.  Bird flu is common during the winter months, when it can be passed on by migrating birds arriving in the UK, spreading from bird to bird by direct contact or through contaminated body fluids and faeces.  It can also be spread by contaminated feed and water, or by dirty vehicles, clothing and footwear.  The virus mainly affects birds and it is very uncommon for it to be passed from birds to humans or other mammals, but experts at Cardiff Council have asked members of the public not to hand-feed birds at any of its parks as a \"precautionary measure\".  A council statement read: \"The body of a greylag goose was handed in to park wardens on February 24 and tests this week confirmed the H5N1 virus. A further six bird carcasses from the park were handed in this week and staff believe the same strain of flu is to blame.  \"The risk to public health is very low but as a precautionary measure the Council is asking all members of the public not to hand-feed birds at any of its parks or country parks.\"  \"If you find a dead wild waterfowl (swans, geese or ducks) or other dead wild birds, such as gulls or birds of prey, you should report them to the Animal Plant and Health Agency (APHA) on 03459 33 55 77. Any visibly sick birds should also be reported via this number and must not be touched or handled.\"  To get the latest newsletters from CardiffOnline click here.",
+    "Description": "UNITED KINGDOM - Bird flu discovered at Cardiff's Roath Park Lake with seven birds suspected to have died from virus\"A warning has been issued by Cardiff Council after a case of bird flu was confirmed at a popular city park.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "02-24-2022T00:00:00",
+      "EventType": [
+        "Death",
+        "Infected"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.panaynews.net/iloilo-placed-under-dengue-alert-level-5/",
+    "date_of_publication": "2022-03-04T23:01:00",
+    "headline": "PHILIPPINES - Iloilo Placed Under Dengue Alert Level 5",
+    "main_text": "",
+    "Description": "PHILIPPINES - Iloilo placed under dengue Alert Level 5\"Gov. Arthur Defensor Jr. has placed the entire province under dengue Alert Level 5 so that people will be compelled to follow the \u201c5S\u201d strategy against a dengue outbreak.\"",
+    "reports": {
+      "diseases": [
+        "dengue"
+      ],
+      "syndromes": [],
+      "event_date": "03-05-2022T00:00:00",
+      "EventType": [
+        "Presence"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 1694008
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.pna.gov.ph/articles/1169051",
+    "date_of_publication": "2022-03-04T23:00:00",
+    "headline": "PHILIPPINES - Zambo City Marks 338 Dengue Cases With 9 Deaths",
+    "main_text": "ANTI-DENGUE OPS. A sanitary inspector conducts a search-and-destroy operation against breeding sites of mosquitoes Friday (March 4, 2022) in Barangay San Roque, Zamboanga City as dengue cases soar to 338 with nine deaths since January. The city health office reminded residents to always protect themselves from dengue through the 4S strategy. (Photo courtesy of Zamboanga CIO)  ZAMBOANGA CITY - The city health office on Friday reminded residents to practice the four \"S\" strategy against dengue, an acute viral infection that affects mostly children and infants, following a continuing increase in the number of cases here.  Dr. Dulce Amor Miravite, city health officer, issued the reminder as dengue cases in the city reached the 338 mark with nine mortalities since January this year.  The four \"S\" campaign stands for: Search and destroy mosquito-breeding sites; secure Self-protection measures like wearing long pants and long-sleeve shirts and daily use of mosquito repellent; Seek early consultation; and, Support fogging or spraying only in hotspot areas where an increase in cases is registered for two consecutive weeks to prevent an impending outbreak.  \"As we can see, we are experiencing rain at night, so we have to destroy the breeding sites of mosquitoes,\" Miravite said.  She said the dengue fatalities came from the barangays of Bolong, Mercedes, Tictapul, Camino Nuevo, Tetuan, Sinunuc, Buenavista and Sta. Catalina.  She noted that six of the city's 98 barangays have a high number of dengue cases reported from January.  The six barangays and their respective dengue cases are as follows: Mercedes, 15; Culianan, nine; Divisoria, nine; Zambowood, nine; Lanzones, three; and, Quiniput, three.  Dengue virus is spread to people through the bite of infected Aedes aegypti mosquitoes.  The mosquito can be recognized by white markings on its legs and a pattern in the form of a lyre on the upper surface of its thorax.  The most common symptoms of dengue fever are nausea, vomiting, rashes, aches, and pain such as eye pain, typically behind the eyes, muscle, joint, or bone pain. (PNA)",
+    "Description": "PHILIPPINES - Zambo City marks 338 dengue cases with 9 deaths\"The city health office on Friday reminded residents to practice the four \u201cS\u201d strategy against dengue, an acute viral infection that affects mostly children and infants, following a continuing increase in the number of cases here.\"",
+    "reports": {
+      "diseases": [
+        "dengue"
+      ],
+      "syndromes": [],
+      "event_date": "03-18-2022T00:00:00",
+      "EventType": [
+        "Death",
+        "Presence",
+        "Infected"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.queenslandcountrylife.com.au/story/7644999/pork-giant-confirms-japanese-encephalitis-cases-at-piggeries/",
+    "date_of_publication": "2022-03-04T22:57:00",
+    "headline": "AUSTRALIA - SunPork Confirms Japanese Encephalitis Cases At Its Piggeries",
+    "main_text": "Australia's biggest pork producer SunPork has confirmed its piggeries have been impacted by Japanese encephalitis virus.    JEV is a mosquito-borne viral disease that is spread through the bite of an infected mosquito to people and animals - mostly pigs and horses.    SunPork Group CEO and managing director Dr Robert van Barneveld said several of their sites in the eastern states had been impacted and they were working through it.    \"One of the Goondiwindi farms has been infected ... we have an infected premises in New South Wales ... There are infected premises all down the east coast,\" Dr van Barneveld said.  \"We've been working on this endlessly since Friday night when we first were made aware that it was an issue.\"    Dr van Barneveld said it was not a new occurrence and there was no cause for alarm in the pork industry.    \"The piggeries are innocent bystanders. Pigs are not going to infect other pigs. It's not going to have a negative effect at an abattoir. The pork is safe to eat. It's play on,\" he said.  \"If you're going to have an emergency animal disease, this is the one to have. We're not actually anticipating any significant disruption to our operations at all.\"    Pigs are the focus from a human health perspective as they can infect mosquitoes that can then infect humans. This is not the case with horses.  Humans can become infected with JEV through the bite of an infected mosquito. The virus cannot be transmitted between humans, and it cannot be caught through eating pork or pig products.  \"If a mosquito bites people and if it bites horses, they're called dead end hosts, so it doesn't pass on. If it bites a pig - a pig's an amplifier - so if another mosquito bites that pig while it's viremic, which is a very short period of time, it can transmit in the mosquito population,\" Dr van Barneveld said.  \"That's why there are controls around the movement of pigs.\"    Authorities, industry working together  Dr van Barneveld said authorities were working well together to protect humans and animals.    \"This is about protecting people and the bad guy in the process is a mosquito and the weather patterns,\" he said.    \"The state health departments and the state chief veterinary officers have worked extremely well together. They understand that eradicating it is going to be very unlikely and they're being very practical around the movement of pigs and making sure people are safe.\"  He said SunPork had done a lot of preparedness work around African Swine Fever and had good relationships with the state chief veterinary officers which puts it in a very good position to manage this.    \"When you get a disease like this, there are a whole stack of legislative instruments that are pushed into place that have to be executed, and they're following those processes.    \"Everyone's fairly calm about it and think we can manage through it with minimal disruption.\"    A vaccine for horses and pigs is available in countries where the disease is endemic, but no JE vaccines for animals are registered for use in Australia, and there is no effective treatment for JE in animals.    On Friday, Australia's Chief Veterinary Officer Dr Mark Schipp said JEV had been confirmed at 14 piggeries across NSW, SA, Queensland and Victoria.    This follows a confirmed human case of JEV in Queensland. Queensland Health said the confirmed case had recent travel in regional southern Queensland and is currently being treated in a Brisbane hospital.  Less than 1 per cent of people infected may develop a serious illness such as encephalitis and experience symptoms including neck stiffness, severe headache and coma, and more rarely, permanent neurological complications or death.    Vets get the message out  Goondiwindi and District Veterinary Services owner and vet Dr Trisha Pullos said the recent heavy rain in parts of Queensland and NSW had brought with it more mosquitoes and potentially more risk of JEV.    \"We've had quite a bit of rain like everybody else, and the mozzies out here are brutal,\" Dr Pullos said.    Dr Pullos said the main issues were observed in piglets - pigs didn't seem to be affected physically.    \"If the piglets are born dead or weak or malformed or something really unusual or if the sow aborts the whole litter - that's the first sign,\" she said.    \"Pigs can amplify the virus. It's not transferable between humans; it seems to be just the mosquitoes that are how we can catch it, so if you can keep the mozzies off you, then we'll be a little bit safer.\"  She said it was important to get information from reliable sources and anyone who was worried should contact their vet.    \"Anybody who's got two pigs in the backyard, or a pig for the kids, or a little kill herd at the back of the property - they need to contact their local vet and just say, 'Hey, I've got two pigs here. What do I need to keep an eye out for?'    \"Then what we'll do is we'll let our district vet know who will then let the Chief Veterinary Officer know so we can try and track it a lot faster, because if someone goes and tells their neighbour but doesn't tell the vet then we're already behind the eight ball.\"    She said there was a risk people had 'bad news fatigue' and wouldn't take things seriously.  \"I've found that everyone's a little bit worn out. There's been quite a few comments on our Facebook posts where people are just like, 'Not again', or 'What now?' 'Can it just end?    \"We might be at risk of going, 'Oh, whatever', and I want to make sure that they're not going to do that.\"  The virus appears in Australia in 1995  JEV was detected in three people in the Torres Strait Islands in 1995. In 1998, two further cases were detected in people in Queensland, including one acquired on the Australian mainland.  JEV is mostly transmitted by bites from infected mosquito vectors and is maintained in mosquito-waterbird or mosquito-waterbird-pig cycles.  Waterbirds, particularly wading birds such as herons and egrets, are the main source from which transmission of JEV can occur. They are important amplifying hosts and hold enough virus in their blood to infect vectors for one to seven days.  Pigs are also major amplifiers of the virus and develop levels of virus in the blood sufficient to infect vectors for around four days.  Horses and a wide range of other species may be infected but do not develop levels of virus in the blood sufficient to infect mosquitoes, so are not involved in maintaining disease in an area.  More news  Want daily news highlights delivered to your inbox? Sign up to the Queensland Country Life newsletter below.  ",
+    "Description": "AUSTRALIA - SunPork confirms Japanese encephalitis cases at its piggeries\"Australia's biggest pork producer SunPork has confirmed its piggeries have been impacted by Japanese encephalitis virus.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [
+        "Encephalitis"
+      ],
+      "event_date": "03-18-2022T00:00:00",
+      "EventType": [
+        "Infected",
+        "Death"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 2077456
+        },
+        {
+          "geonames_id": 2077456
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.premiumtimesng.com/news/more-news/515137-lassa-fever-oyo-govt-confirms-four-deaths19-cases.html",
+    "date_of_publication": "2022-03-04T22:56:00",
+    "headline": "NIGERIA - Lassa Fever - Oyo Govt Confirms Four Deaths - 19 Cases",
+    "main_text": "The Oyo State Government says four deaths, including three healtcare workers, were recorded out of the 19 confirmed cases of Lassa fever outbreak in the state.  The state Commissioner for Health, Bode Ladipo, made this known in a statement on Thursday in Ibadan.  Mr Ladipo said that of the 19 confirmed cases were two medical doctors and one other health worker, who succumbed to the deadly virus.  The Oyo State branch of the Nigerian Medical Association had earlier said that it had lost two of its members to the outbreak within 72 hours.  \"I am here today to address the unfortunate incidence of the death of health workers of a private health facility in the state from Lassa fever.  \"Four health workers were admitted into the treatment centre in the early days of the week.  \"Upon diagnostic investigations, all four were confirmed positive for Lassa fever.  \"Unfortunately, three of them consisting of two doctors and another hospital staff died in spite of all efforts at caring for them by experts,\" he said.  Mr Ladipo said that resources had been deployed to designated health facilities to forestall the spread of the deadly disease across the state.  \"Surveillance activities have been heightened at the grassroots across the state, while access to care has been provided to all individuals at risk of this disease,\" he said.  The commissioner urged residents of the state to remain calm and not panic while ensuring strict adherence to preventive measures.  Mr Ladipo also advised individuals having symptoms such as fever, sore throat, vomiting, generalised body weakness, chest pain, back pain, cough, diarrhea, swollen face, eyes or neck, stomach pain or bleeding from ear, eyes, nose, mouth, or any other body openings to report promptly to the nearest health facility.  He said that people showing the above symptoms could also call the State Emergency Operations Center (EOC) on 08095394000 or 08095863000.  Mr Ladipo advised all residents to avoid contact with rats, contaminated food items by rat faeces, urine and other body fluid.  \"The virus causing this disease is transmitted from infected rats to humans or an infected human to other humans,\" the commissioner said.  Mr Ladipo also advised all healthcare facilities across the state to maintain a high index of suspicion and report all suspected cases to the Local Government Area or State Health Authorities.  He said the provision of qualitative healthcare was a joint responsibility of all.  (NAN)",
+    "Description": "NIGERIA - Lassa Fever: Oyo Govt confirms four deaths,19 cases\"The Oyo State Government says four deaths, including three healtcare workers, were recorded out of the 19 confirmed cases of Lassa fever outbreak in the state.\"",
+    "reports": {
+      "diseases": [
+        "lassa fever"
+      ],
+      "syndromes": [],
+      "event_date": "03-19-2022T00:00:00",
+      "EventType": [
+        "Death",
+        "Presence",
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 9645131
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://jerseyeveningpost.com/news/2022/03/04/jersey-zoo-closes-walk-through-aviaries-after-goose-dies-from-bird-flu/",
+    "date_of_publication": "2022-03-04T22:55:00",
+    "headline": "JERSEY - Jersey Zoo Closes Walk-Through Aviaries After Goose Dies From Bird Flu",
+    "main_text": "BIRDKEEPERS are being 'strongly urged' to make sure their animals are contained after a goose at Jersey Zoo died from avian flu.  The captive red-breasted goose is the third known bird in Jersey to have died from the disease, following the death of two buzzards last month.  The death of the goose was reported on 22 February and tests this week confirmed the presence of avian flu.  Jersey Zoo has now closed its walk-through aviaries, but has moved to reassure Islanders that it is still safe to visit the wildlife park.  Alistair Breed, Jersey's chief veterinary officer, said: 'Upon testing, the bird from the Zoo was found to be positive for highly pathogenic avian influenza. Following on from this, we will shortly be introducing compulsory biosecurity measures relating to poultry and kept birds on the whole Island.  'Private birdkeepers should do everything possible at this time to ensure their flocks avoid contact with wild birds. We are working closely with the Zoo on control measures there to help protect their collection.'  Graeme Dick, director of zoo operations, said that staff were doing everything possible to keep the park's birds safe.  'Our priority is to prevent further spread of bird flu at Jersey Zoo by following all guidance issued by the chief veterinary officer,' he said.  'We have closed our walk-through aviaries, but I would like to reassure our visitors that it is still safe to visit the Zoo and we are monitoring the situation closely.'  The UK Health Security Agency has advised that the risk to public health from bird flu is low.",
+    "Description": "JERSEY - Jersey Zoo closes walk-through aviaries after goose dies from bird flu\"BIRDKEEPERS are being \u2018strongly urged\u2019 to make sure their animals are contained after a goose at Jersey Zoo died from avian flu.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "02-22-2022T00:00:00",
+      "EventType": [
+        "Death",
+        "Infected"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.today.ng/news/nigeria/avian-influenza-hits-poultrys-farms-kebbi-412841",
+    "date_of_publication": "2022-03-04T22:55:00",
+    "headline": "NIGERIA - Avian Influenza Hits Two Poultrys Farms In Kebbi",
+    "main_text": "",
+    "Description": "NIGERIA - Avian Influenza hits two poultry\u2019s farms in Kebbi\"The Kebbi State Government has assured the people of the state not to be panicking over the discovery of the Avian Influenza in two farms in two local government areas of the state.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "2022-03-17",
+      "EventType": [],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.abc.net.au/news/2022-03-04/nsw-confirms-first-human-case-of-japanese-encephalitis/100884326",
+    "date_of_publication": "2022-03-04T22:53:00",
+    "headline": "AUSTRALIA - NSW Records Its First Probable Human Case Of Japanese Encephalitis",
+    "main_text": "NSW has recorded its first probable human case of Japanese encephalitis virus (JEV).  The person is a resident in the NSW-Victoria border region and is in a stable condition in intensive care.  Several more people in NSW are undergoing further testing and more cases of the virus, which is spread by mosquitoes, are expected to be confirmed in coming weeks.  The virus has been declared an issue of national significance and NSW Health is warning the public to be vigilant and safeguard themselves against mosquito bites, as there is no specific treatment for JEV.  Earlier today Queensland recorded its first human case of JEV -- a woman in her 60s who is in a critical condition on life support after a camping trip in the south of the state.  Her diagnosis follows the recent detection of Japanese encephalitis in animal samples taken from a Goondiwindi commercial piggery in the state's south.  JEV can cause severe neurological illness, with headache, convulsions and reduced consciousness in some cases.  The virus can infect animals as well as humans, and was recently confirmed in samples from a number of pig farms in NSW, Queensland, South Australia and Victoria.  Locally acquired cases of JEV have never previously been identified in NSW in animals or humans, as JEV is usually only found in far northern Australia and neighbouring countries.  Mosquito-control activities are being carried out in the vicinity of farms where pigs are confirmed to have been infected by JEV, and NSW Health is arranging vaccinations for workers on affected farms.  The virus cannot be transmitted between humans, and it cannot be caught by eating pork or pig products.  JEV has been confirmed at 14 piggeries across Australia. ( ABC Southern QLD: Jon Daly )  NSW's Acting Chief Health Officer Marianne Gale said the best way to avoid infection was to avoid being bitten by mosquitoes, which are most active between dusk and dawn.  \"NSW Health is cautioning people undertaking outdoor activities such as camping and fishing to carefully consider their plans,\" Dr Gale said.  \"This is especially important for people planning activities near waterways or where mosquitoes are present, particularly the Murray River and its branches.  \"People should be particularly vigilant given the recent wet weather conditions, which have led to very high mosquito numbers that may increase further in the coming days and weeks.\"  NSW Health is working closely with the NSW Department of Primary Industries and other state and territory agencies to determine the extent to which the virus is circulating, through animal testing and mosquito monitoring.  Health authorities recommend these simple actions for avoiding mosquito bites:",
+    "Description": "AUSTRALIA - NSW records its first probable human case of Japanese encephalitis\"NSW has recorded its first probable human case of Japanese encephalitis virus (JEV).\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [
+        "Encephalitis"
+      ],
+      "event_date": "03-14-2022T00:00:00",
+      "EventType": [
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 2077456
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.upi.com/Top_News/US/2022/03/04/avian-flu-found-in-missouri-commercial-chicken-flock/2911646426660/?u3L=1",
+    "date_of_publication": "2022-03-04T22:52:00",
+    "headline": "MISSOURI - USDA Finds Avian Flu In Missouri Commercial Chicken Flock",
+    "main_text": "1/2  The USDA Friday said it confirmed avian flu in a flock of Missouri broiler chickens. File photo by format35/Shutterstock  March 4 (UPI) -- The United States Department of Agriculture's Animal and Plant Health Inspection Service said Friday it has confirmed highly pathogenic avian influenza in a flock of Missouri chickens. \"State officials quarantined the affected premises, and birds on the properties will be depopulated to prevent the spread of the disease,\" APHIS said in a press statement, \"Birds from the flock will not enter the food system.\" Advertisement  APHIS said it tested a flock of commercial broiler chickens in Stoddard County that \"confirmed the presence of highly pathogenic avian influenza.\"  Samples were tested at the University of Missouri Veterinary Medical Diagnostic Laboratory and confirmed at the APHIS National Veterinary Services Laboratories (NVSL) in Ames, Iowa.  APHIS said it is working closely with state animal health officials on a joint incident response.  Citing the Centers for Disease Control and Prevention, APHIS said the recent avian flu detections do not present an immediate public health concern.  Federal and state partners are jointly working on additional surveillance and testing in area around the flock that tested positive for avian flu.  The United States has the strongest avian flu surveillance program in the world, APHIS said, and USDA is working to actively look for the disease in U.S. commercial poultry operations.  Advertisement",
+    "Description": "MISSOURI - USDA finds avian flu in Missouri commercial chicken flock\"The United States Department of Agriculture's Animal and Plant Health Inspection Service said Friday it has confirmed highly pathogenic avian influenza in a flock of Missouri chickens.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "01-02-2022T00:00:00",
+      "EventType": [
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 12213626
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/97519",
+    "date_of_publication": "2022-03-04T22:52:00",
+    "headline": "DISTRICT OF COLUMBIA - CDC Rats Out First US Transmission Of Seoul Hantavirus",
+    "main_text": "Two service workers in Washington, D.C. contracted Seoul hantavirus in what is believed to be the first locally transmitted cases of the virus on U.S. soil.  Both patients presented with several days of chills, high fever, headache, diarrhea, and vomiting. Both had acute kidney injury and responded to supportive treatment, and were later discharged.  Rats seem to be the culprit in both cases, as Washington, D.C. has experienced increased calls to rodent control centers due to overpopulation, and Seoul hantavirus can be transmitted through aerosol exposure from rodent feces, saliva, or urine, noted Nivedita Ravi-Caldwell, DVM, of the CDC, and colleagues in the Morbidity and Mortality Weekly Report.  They said that the first patient developed the first case of hemophagocytic lymphohistiocytosis, \"a potentially fatal systemic inflammatory syndrome,\" related to hantavirus infection in the U.S., and only the second worldwide. The first was documented in China.  \"Although extremely rare, the two ... cases ... highlight the importance of physicians including hantavirus infection in their differential diagnoses in patients with compatible symptoms and history of animal exposure or travel and underscore the importance of reporting notifiable infectious disease cases to health departments for investigation and response,\" the researchers wrote.  The first patient, a 30-year-old man who worked in maintenance, presented in May 2018 to a Washington, D.C. healthcare facility with a 4-day history of symptoms, despite taking antipyretic medication. In addition to acute kidney injury over several days, he experienced hemoconcentration and thrombocytopenia. A week later, he had \"signs consistent with hemophagocytic lymphohistiocytosis,\" including elevated levels of ferritin, triglycerides, and interleukin-2, as well as hemophagocytosis cells on a bone marrow biopsy.  The second patient, a 37-year-old man who worked as a dishwasher and plumber's assistant, presented in November 2018 to a Washington, D.C. emergency department with a 3-day history of symptoms, including myalgia and productive cough. Laboratory results showed elevated levels of hepatic transaminases.  Both patients had serology testing sent to CDC, showing hantavirus IgG and IgM titers that confirmed recent infection. Interestingly, Ravi-Caldwell's group noted that while the first patient had \"frequent rodent sightings\" at his workplace, the second was \"unaware of exposure to rodents at work, at home, or during his commute.\"  The researchers explained that Norway rats can serve as reservoirs for Seoul hantavirus in the U.S., and \"previous cases of hantavirus infection have been linked to wild or pet rodents.\"  Molly Walker is deputy managing editor and covers infectious diseases for MedPage Today. She is a 2020 J2 Achievement Award winner for her COVID-19 coverage. Follow  Disclosures The authors disclosed no conflicts of interest. Primary Source Morbidity and Mortality Weekly Report Source Reference: Ravi-Caldwell N, et al \"First reports of locally transmitted Seoul hantavirus infection -- District of Columbia, May 2018-December 2018\" MMWR 2022; DOI: 10.15585/mmwr.mm7109a3.  Please enable JavaScript to view the comments powered by Disqus.",
+    "Description": "DISTRICT OF COLUMBIA - CDC Rats Out First U.S. Transmission of Seoul Hantavirus\"Two service workers in Washington, D.C. contracted Seoul hantavirus in what is believed to be the first locally transmitted cases of the virus on U.S. soil\"",
+    "reports": {
+      "diseases": [
+        "hantavirus",
+        "COVID-19"
+      ],
+      "syndromes": [],
+      "event_date": "03-30-2022T00:00:00",
+      "EventType": [
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 4140963
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.nyasatimes.com/ministry-reports-cholera-case-in-machinga/",
+    "date_of_publication": "2022-03-04T22:51:00",
+    "headline": "MALAWI - Ministry Reports Cholera Case In Machinga",
+    "main_text": "",
+    "Description": "MALAWI - Ministry reports cholera case in Machinga\"The Ministry of Health has reported a cholera case at Machinga District Hospital confirmed on 2nd March, 2022.\"",
+    "reports": {
+      "diseases": [
+        "cholera"
+      ],
+      "syndromes": [],
+      "event_date": "03-02-2022T00:00:00",
+      "EventType": [
+        "Infected"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.providencejournal.com/story/news/2022/03/04/bird-flu-expected-reach-rhode-island-poultry-operations/9378583002/",
+    "date_of_publication": "2022-03-04T22:50:00",
+    "headline": "RHODE ISLAND - Super-Contagious Avian Flu Seen As Threat To Rhode Island Poultry",
+    "main_text": "'Super-contagious' avian flu seen as threat to Rhode Island poultry  PROVIDENCE -- State environmental authorities are warning of a strain of flu lethal to poultry that is expected to hit Rhode Island soon, if it's not here already.  No human cases of this type of avian influenza have been found in the United States, and it is not seen as a threat to people or to public health, but the virus is deadly to chickens, ducks, turkeys and other farmed and wild birds.  \"It is absolutely a concern for all our membership,\" said Heidi Quinn, executive director of the Rhode Island Farm Bureau. \"From our smallest to our biggest farms, it would affect them all. They have the potential to lose all their birds.\"  The virus was first detected in South Carolina on Jan. 14 and in subsequent weeks has spread to the Midwest and the Northeast. Over the past three days, infected birds have been found in Connecticut and Massachusetts.  More: Flu season arrives early in Rhode Island. Why and what to do  The virus has also been detected in wild waterfowl harvested by hunters along the Atlantic flyway, the migratory bird path that passes through Rhode Island.  The last major outbreak of avian flu in the United States was in 2015, but Rhode Island state veterinarian Scott Marshall said the current occurrence of the virus is more worrying because of its geographic range.  \"It's easy to imagine that we have the virus in the state,\" he said.  Because mortality rates in infected flocks can be close to 100%, he and other officials with the state Department of Environmental Management are monitoring poultry farms and urging owners to take steps to prevent infection.  They include restricting access to farmed birds; ensuring they're kept away from wild birds, particularly migratory waterfowl; disinfecting cages, coops and clothes; not sharing equipment with other poultry producers; properly disposing of dead birds; and reporting sick birds or unusual bird deaths to the DEM.  More: Special Good Night Lights tonight for military medical team that helped RI fight COVID  If infected birds are found, they must be humanely killed to limit the spread of the virus, officials said. If no action is taken, all poultry across the state could be wiped out, they warned. Farmers would be eligible for federal relief if they have birds that must be killed.  The DEM is reaching out to poultry farmers. The agency is also working with the U.S. Department of Agriculture to monitor for the virus, and with the state Department of Health and state Emergency Management Agency on emergency response plans.  Under those plans, the DEM would respond quickly to reports of sick or dying poultry and obtain samples to be tested at nationally accredited labs. If a diagnosis is confirmed, the poultry on the affected farm will be killed within 24 hours. A control zone may also be established around the farm.  Poultry owners across the region are being asked to voluntarily postpone through June any shows, exhibitions or swap meets where birds are traded.  They are also being asked to watch for signs of the disease in their birds, such as diarrhea, respiratory difficulty or neurological issues. Sudden death and in larger flocks, increased mortality rates, are of particular concern.  \"That should be a red flag and impetus for them to call us so we can go out and test,\" Marshall said.  Members of the public wishing to report sick or dying domestic birds should call (401) 222-2781. If they fail to reach someone or if it's after regular business hours, call (401) 222-3070. To report sick or dying wild birds, the number is (401) 789-0281.  Although there is a risk for all poultry producers, it is lower for the biggest farmers in the state, such as Baffoni's Poultry Farm in Johnston or Little Rhody Farms in Johnston, which sells eggs, because they keep their birds under cover, said Quinn. For owners who keep their birds outdoors in mobile \"chicken tractors\" or backyard coops, the chances of interactions with infected wild birds are higher.  Quinn said the most important thing is to get the word out so that poultry owners take steps to protect their flocks from the virus.  \"Every time it comes up, the hair stands up on the back of our necks,\" she said. \"It's super-contagious.\"",
+    "Description": "RHODE ISLAND - 'Super-contagious' avian flu seen as threat to Rhode Island poultry\"State environmental authorities are warning of a strain of flu lethal to poultry that is expected to hit Rhode Island soon, if it\u2019s not here already.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "01-14-2022T00:00:00",
+      "EventType": [
+        "Death",
+        "Infected",
+        "Presence"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 5224151
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.bbc.com/news/world-europe-jersey-60616725",
+    "date_of_publication": "2022-03-04T22:48:00",
+    "headline": "JERSEY - Third Bird In Jersey Tests Positive For Bird Flu",
+    "main_text": "\"Upon testing, the bird from the zoo was found to be positive for highly pathogenic avian influenza, following on from this, we will shortly be introducing compulsory biosecurity measures relating to poultry and kept birds on the whole island,\" he said.",
+    "Description": "JERSEY - Third bird in Jersey tests positive for bird flu\"A third case of bird flu has been reported in Jersey in 2022.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "2022-03-17",
+      "EventType": [],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.klkntv.com/nebraska-poultry-farmers-warned-of-bird-flu/",
+    "date_of_publication": "2022-03-04T22:47:00",
+    "headline": "NEBRASKA - Nebraska Poultry Farmers Warned Of Bird Flu",
+    "main_text": "Nebraska poultry farmers warned of bird flu  The virus has the ability to spread rapidly and is extremely fatal to chickens.  JULIAN, Neb. (KLKN) -- The avian bird flu outbreak in Iowa announced on Wednesday has caused panic among poultry farmers.  The virus has the ability to spread rapidly and is extremely fatal to chickens.  The disease can spread from wild birds that migrate from flock to flock across the country.  A poultry farmer in Julian, about 11 miles south of Nebraska City, said she goes above and beyond to maintain biosecurity measures amid the outbreaks.  \"As always, you pay very close attention to the health of your birds, freshwater, fresh feed -- a good high-quality feed is important -- and ... just the biosecurity is as important as anything.\"  A disease that is as deadly and spreads as fast as the bird flu can cost poultry farmers an entire flock of chickens.  \"Like many other commercial poultry operations across the country, we are taking every precaution to prevent HPAI from connecting with any of our commercial operations,\" said Jessica Kolterman, director of administration at Lincoln Premium Poultry. \"We have increased biosecurity, restricted visitors and guests, continue testing and monitoring of all of our flocks, and have met with local and federal agencies to ensure full compliance with all safety measures. We will continue to work with our farmer partners, our contractors, and our team members to answer questions and provide regular information on best practices for preventing the spread of HPAI.\"  At this time, poultry farmers are encouraged by the U.S. Department of Agriculture to take precautions for their birds by keeping their distance, keeping themselves and equipment clean, and knowing the warning signs of the flu.",
+    "Description": "NEBRASKA - Nebraska poultry farmers warned of bird flu\"The avian bird flu outbreak in Iowa announced on Wednesday has caused panic among poultry farmers.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-23-2022T00:00:00",
+      "EventType": [
+        "Infected",
+        "Presence"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 4862182
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.ksnt.com/news/kansas/kda-warns-of-sudden-death-bird-disease-in-kansas/",
+    "date_of_publication": "2022-03-04T22:46:00",
+    "headline": "KANSAS - KDA Warns Of Sudden Death Bird Disease Found Near Kansas",
+    "main_text": "MANHATTAN (KSNT) - The Kansas Department of Agriculture is encouraging poultry owners to take additional steps to protect their flocks from avian influenza.  This comes from the KDA's Division of Animal Health and concerns both commercial and backyard flocks. Owners are being told to monitor their birds for symptoms of avian influenza and by implementing biosecurity practices.  Highly pathogenic avian influenza is an very contagious viral disease that can infect turkeys, chickens and other birds, causing severe illness and/or sudden death. HPAI has been found in backyard flocks as well as commercial operations in neighboring states but it has not been detected in the state of Kansas as of yet.  \"Protecting the poultry in the state is a high priority, and we need all poultry owners to be part of the effort to prevent the spread of disease in Kansas,\" Animal Health Commissioner Justin Smith said. \"Our best defense is to follow strict biosecurity practices and vigilantly monitor birds for any signs of illness.\"  To best protect your poultry using biosecurity methods to prevent contamination, the KDA recommends:  Prevent contact with wild birds, especially wild waterfowl  Restrict unauthorized people and vehicles  Cover and enclose outdoor feeding areas, and cover stored feed  Clean and disinfect any vehicle tires or equipment that has been on other farms or other locations where there is poultry or wild birds  Wear clean clothing, boots and shoes when in contact with your flock  Isolate new birds  Symptoms of HPAI can include: coughing, sneezing, nasal discharge and other signs of respiratory distress; lack of energy and appetite' decreased water consumption; decreased egg production and/or soft-shelled, misshapen eggs; incoordination; and diarrhea. Avian influenza can also bring about sudden death in birds even if they aren't showing other symptoms.  If you see these symptoms in your birds, the KDA recommends that you reach out to your veterinarian immediately. Contact the KDA at 785-564-6601 if you don't have access to a veterinarian.  The recent HPAI detections do not present an immediate public health concern according to the Centers for Disease Control. No human cases of these avian influenza viruses have been found in the U.S. Avian influenza does not present a food safety risk: poultry and eggs are safe for consumption when handled and cooked properly.  According to the CDC, bird influenza rarely affects people. Humans can become infected when a bird sheds the virus in its saliva, mucous and/or feces. Humans are often infected when the virus gets into a person's eyes, nose or mouth, or is inhaled. When human infections are reported, the infections is usually limited, inefficient and not sustained.  Federal and state partners are working together on additional surveillance and testing in areas around the affected flock as part of existing avian influenza response plans. The U.S. has the strongest avian influenza surveillance program in the world according to the KDA and the U.S. Department of Agriculture is working with its partners to actively look for the disease in commercial poultry operations, live bird markets and in migratory wild bird populations.  For more information on HPAI, go to the KDA's avian influenza webpage here or call 785-564-6601.",
+    "Description": "KANSAS - KDA warns of \u2018sudden death\u2019 bird disease found near Kansas\"The Kansas Department of Agriculture is encouraging poultry owners to take additional steps to protect their flocks from avian influenza.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "2022-03-17",
+      "EventType": [
+        "Infected",
+        "Death"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 4393217
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.wattagnet.com/articles/44641-missouri-240-000-broilers-in-avian-flu-infected-flock",
+    "date_of_publication": "2022-03-04T22:46:00",
+    "headline": "MISSOURI - Missouri - 240000 Broilers In Avian Flu-Infected Flock",
+    "main_text": "There were 240,000 chickens in the Stoddard County broiler flock where the presence of highly pathogenic avian influenza (HPAI) was confirmed, according to information released by the Missouri Department of Agriculture (MDA).  During the morning of March 4, the United States Department of Agriculture (USDA) Animal and Plant Health Inspection Service (APHIS) announced that HPAI had been confirmed in commercial broiler flock in Stoddard County, Missouri, but the agency did not reveal the size of the flock.  Several hours later, MDA, on its website, stated the number of chickens affected, but offered little additional information not already provided by APHIS.  The farm has been quarantined and depopulation activities are underway.  This case is the second case of HPAI in commercial broilers in the United States in 2022.  Advertisement  Stoddard County, in southeastern Missouri, is in relative close proximity to Fulton County, Kentucky, where the country's first confirmed case of HPAI in a commercial broiler flock occurred. The Fulton County case involved 246,000 chickens.  Kentucky, to date has had two cases of HPAI. The other case involved a commercial turkey flock in Webster County. Other confirmed cases of HPAI in the United States include four commercial turkey flocks in Dubois County, Indiana, two commercial turkey flocks in Greene County, Indiana, and a commercial layer flock in New Castle County, Delaware.  The presence of HPAI in a commercial turkey flock in Nova Scotia, Canada, was also confirmed earlier in 2022.  To date, HPAI has been confirmed in three of the four flyways. Missouri, Indiana and Kentucky are in the Mississippi Flyway, while Delaware and Nova Scotia are located in the Atlantic Flyway. While no HPAI cases have been confirmed in commercial poultry in the Pacific Flyway, it has been confirmed in a bald eagle found in Vancouver, British Columbia, Canada. Wild bird detections, in accordance with World Organisation for Animal Health (OIE) international standards, should not result in any trade restrictions.  View our continuing coverage of the global avian influenza situation.",
+    "Description": "MISSOURI - Missouri: 240,000 broilers in avian flu-infected flock\"There were 240,000 chickens in the Stoddard County broiler flock where the presence of highly pathogenic avian influenza (HPAI) was confirmed, according to information released by the Missouri Department of Agriculture (MDA).\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-17-0240T00:00:00",
+      "EventType": [],
+      "Locations": [
+        {
+          "geonames_id": 12213626
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.wistv.com/2022/03/04/dhec-asking-people-submit-dead-birds-help-track-west-nile-virus/",
+    "date_of_publication": "2022-03-04T22:45:00",
+    "headline": "SOUTH CAROLINA - DHEC Asking People To Submit Dead Birds To Help Track West Nile Virus",
+    "main_text": "COLUMBIA, S.C. (WIS) - The Dept. of Health and Environmental Control has asked that residents submit certain types of dead birds to help track West Nile Virus.  During the spring, summer and fall, DHEC is asking that residents submit recently deceased crows, blue jays, house finches and house sparrows that appear to not have been injured and are not decayed.  Officials say those birds are more susceptible to WNV than other species, which makes them good candidates for testing. Other birds will be tested on a case-by-case basis.  DHEC's goal with the dead bird surveillance program is to better understand where and when there is an increase in West Nile virus activity. The activity is reported to local mosquito control programs, so they can take action to protect the health of local residents.  The birds can be submitted to DHEC at local Environmental Affairs offices from March 15 through November 30.  Here are DHEC officials' tips on how to collect dead birds:  Don't touch a bird, dead or alive, with bare hands. Use gloves or pick up the bird with doubled, plastic bags.  Keep the bagged bird cool until it can be placed on ice. If the bird carcass can't be delivered to DHEC within 36-hours of collection, place it on ice in a cooler, but do not allow water into the bags. Please do not refrigerate or freeze the carcass where food is stored.  Download and complete the Dead Bird Submission and Reporting Sheet for West Nile Virus and take the sheet and dead bird to a local DHEC Environmental Affairs office during normal business hours (8:30 a.m.-5 p.m., Monday-Friday). See our interactive map of available offices for drop-off.  \"The public's involvement with dead bird surveillance helps identify West Nile virus before it shows up in people,\" said Dr. Chris Evans, State Public Health Entomologist. \"This is a unique opportunity for the public to proactively assist their public health agency in staying ahead of a potential health risk.\"  For more information, click here or call 803-896-3802.  Copyright 2022 WIS. All rights reserved.  Notice a spelling or grammar error in this article? Click or tap here to report it. Please include the article's headline.",
+    "Description": "SOUTH CAROLINA - DHEC asking people to submit dead birds to help track West Nile Virus\"The Dept. of Health and Environmental Control has asked that residents submit certain types of dead birds to help track West Nile Virus.\"",
+    "reports": {
+      "diseases": [
+        "west nile virus"
+      ],
+      "syndromes": [],
+      "event_date": "03-15-2022T00:00:00",
+      "EventType": [
+        "Infected"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "http://outbreaknewstoday.com/nigeria-reports-540-confirmed-lassa-fever-cases-nearly-100-deaths-in-first-two-months-49996/",
+    "date_of_publication": "2022-03-04T22:44:00",
+    "headline": "NIGERIA - Nigeria Reports 540 Confirmed Lassa Fever Cases - Nearly 100 Deaths In First Two Months",
+    "main_text": "Nigeria reports 540 confirmed Lassa fever cases, nearly 100 deaths in first two months  NewsDesk @bactiman63  Nigerian health officials reported 90 confirmed Lassa fever cases in the last week of February, including 12 deaths.  This brings the total for the first two months of 2022 to 540 confirmed cases and 98 deaths.  In total for 2022, 21 States have recorded at least one confirmed case across 79 Local Government Areas.  Five healthcare workers were reported infected during the last week of February in Bauchi state.  Earlier this week, The Oyo State government and the state branch of the Nigeria Medical Association (NMA), yesterday, said two doctors died of Lassa fever within 72 hours. While the state's Ministry of Health confirmed the death, the NMA Chairman, Dr. Ayotunde Fasunla, in a statement in Ibadan, the state capital, said: \"The NMA announces, with deepest regret and sorrow, the demise of two of her members from Lassa fever.  Subscribe to Outbreak News TV on YouTube    ",
+    "Description": "NIGERIA - Nigeria reports 540 confirmed Lassa fever cases, nearly 100 deaths in first two months\"Nigerian health officials reported 90 confirmed Lassa fever cases in the last week of February, including 12 deaths.\"",
+    "reports": {
+      "diseases": [
+        "lassa fever"
+      ],
+      "syndromes": [],
+      "event_date": "03-17-0540T00:00:00",
+      "EventType": [
+        "Infected",
+        "Death"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "http://outbreaknewstoday.com/brazil-rio-preto-reports-more-than-1000-dengue-cases-since-beginning-of-year-96259/",
+    "date_of_publication": "2022-03-04T22:42:00",
+    "headline": "BRAZIL - Brazil - Rio Preto Reports More Than 1000 Dengue Cases Since Beginning Of Year",
+    "main_text": "Brazil: Rio Preto reports more than 1,000 dengue cases since beginning of year  NewsDesk @bactiman63  The city of Sao Jose do Rio Preto in Sao Paulo state, Brazil has recorded more than 1,000 cases of dengue in the first two months of 2022.  According to the Municipal Health Department, there were 1,093 cases registered between January and February. No deaths were recorded in the period.  The most affected neighborhoods are Estoril (111), Sao Deocleciano (109), Sao Francisco (85), Parque Industrial (76) and Centro (74), in the eastern and southern regions of the city.  Subscribe to Outbreak News TV on YouTube  Dengue is a disease caused by a virus spread through mosquito bites. The disease can take up to 2 weeks to develop with illness generally lasting less than a week.  Health effects from dengue include fever, headache, nausea, vomiting, rash, muscle and joint pain, and minor bleeding.  Dengue can become severe within a few hours. Severe dengue is a medical emergency, usually requiring hospitalization.  In severe cases, health effects can include hemorrhage (uncontrolled bleeding), shock (seriously low blood pressure), organ failure, and death.  Peru declares epidemiological alert for dengue, Entomological agents deployed to North Lima  Costa Rica's national plan in battle against vector-borne diseases  Puerto Rico: Officials warn of a high incidence of dengue    ",
+    "Description": "BRAZIL - Brazil: Rio Preto reports more than 1,000 dengue cases since beginning of year\"The city of S\u00e3o Jos\u00e9 do Rio Preto in S\u00e3o Paulo state, Brazil has recorded more than 1,000 cases of dengue in the first two months of 2022.\"",
+    "reports": {
+      "diseases": [
+        "dengue"
+      ],
+      "syndromes": [],
+      "event_date": "03-17-2022T00:00:00",
+      "EventType": [
+        "Infected",
+        "Death"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 3469034
+        },
+        {
+          "geonames_id": 3448636
+        },
+        {
+          "geonames_id": 3448439
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.fijitimes.com/fiji-reports-44-cases-of-typhoid-fever/",
+    "date_of_publication": "2022-03-03T20:46:00",
+    "headline": "FIJI - Fiji Reports 44 Cases Of Typhoid Fever",
+    "main_text": "Fiji has recorded 44 cases of typhoid fever so far this year.  Ministry of Health and Medical Services permanent secretary Dr James Fong said the Central Division recorded 14 cases, which he added was within the number of cases expected for this time of the year.  He said the Northern Division reported six cases that were mostly from Bua.  He said that was also within the number of cases expected for this time of year.  \"The Western Division has recorded 23 cases, with an increasing trend that has surpassed the outbreak threshold in the last two weeks,\" Dr Fong said.  \"Ten cases were recorded in the last two weeks from Ra, Sigatoka, Nadi, Lautoka, and Ba.\"  Dr Fong said typhoid fever was typically found in areas that did not have access to clean drinking water.  He strongly urged people who live in rural areas, informal urban areas, and any other areas where access to clean drinking water was limited, to boil all drinking water.  \"We must all also continue to practise basic hygiene measures such as frequently washing hands with soap and water, especially after visiting the toilet and before eating or preparing food.\"",
+    "Description": "FIJI - Fiji reports 44 cases of typhoid fever\"Fiji has recorded 44 cases of typhoid fever so far this year.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-17-2044T00:00:00",
+      "EventType": [
+        "Presence"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 2205218
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.iol.co.za/news/south-africa/western-cape/worry-at-spike-in-number-of-diarrhoea-cases-in-cape-town-d3296d65-17d3-477e-a86a-7dc97dcb2e60",
+    "date_of_publication": "2022-03-03T20:45:00",
+    "headline": "SOUTH AFRICA - Worry At Spike In Number Of Diarrhoea Cases In Cape Town",
+    "main_text": "",
+    "Description": "SOUTH AFRICA - Worry at spike in number of diarrhoea cases in Cape Town\"The City of Cape Town yesterday announced its clinics had reported a major spike in diarrhoea cases amid the surge season.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "2022-03-17",
+      "EventType": [],
+      "Locations": [
+        {
+          "geonames_id": 953987
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://britishlivertrust.org.uk/significant-reduction-in-deaths-from-hepatitis-c-in-england-uk-health-security-agency-reports/",
+    "date_of_publication": "2022-03-03T20:45:00",
+    "headline": "UNITED KINGDOM - Significant Reduction In Deaths From Hepatitis C In England - UK Health Security Ag",
+    "main_text": "Posted on:  3rd March 2022  A new report issued today by the UK Health Security Agency has revealed that there has been considerable progress in eliminating hepatitis C as a public health problem in England, with deaths from the virus falling by 35% between 2015 and 2020. The number of people with chronic hepatitis C has also declined to approximately 81,000 in 2020 (compared to 129,000 in 2015) - a 37% fall in the general population.  Pamela Healy, Chief Executive of the British Liver Trust said, \"There is now an effective cure for everyone living with hepatitis C and the significant decline in deaths and cases is encouraging.  \"The challenge now is for us to find the thousands who are currently undiagnosed. Our message is if you have ever dabbled with drugs (even when you were much younger), practiced unsafe sex or had a tattoo while travelling abroad please get yourself tested just to make sure - the virus has no symptoms in the early stages.  \"Just as importantly, if we are to meet the World Health Organisations target of elimination by 2030, we need urgent action to tackle the drug problem in the UK so that new people do not become infected.\"  Modelling indicates that, of the 81,000 people estimated to have this chronic infection in England, around:  27% of the chronic infections are in people who have recently injected drugs  62% are in those with a past drug injecting history but who are no longer injecting  11% are in those with no history of injecting drug use  Hepatitis C virus (HCV) is a bloodborne virus that can cause life-threatening liver disease, including cancer. However, those infected often have no symptoms until many years later when their liver has been badly damaged. When symptoms do occur, they can often be non-specific, like tiredness or loss of appetite, and be dismissed or mistaken for other conditions.  Andrew, 47 years old, a former hepatitis C patient based in Scotland: \"I was surprised to learn that I had hepatitis C. I got tested a couple of times before and was negative. I learned about it by chance. I was in the hospital on an unrelated matter and got blood taken, and my liver results were a bit abnormal. I got my drugs worker to test me and I found out that I was positive for hepatitis C. I was devastated. I even thought that I was going to die. Luckily, the modern treatment is superb.  \"I started my course of tablets immediately after learning that I'd got hepatitis C, and when I got tested again in 12 weeks, to my relief, I'd been cured. To anyone in a similar situation, get tested. Do it to get that piece of mind for yourself.\"  Dr Helen Harris, Clinical Scientist at the UK Health Security Agency, said: \"In England, we are on our way to eliminating hepatitis C as the number of deaths continue to decline, and direct acting antiviral drugs are available that will clear the virus in around 95% of people who complete treatment.  \"But many people remain undiagnosed, often because they have no symptoms or are unaware that they have ever been at risk. If you have ever injected drugs - even if it happened only once or years ago - you could be at risk of hepatitis C. If you think you could be at risk, speak to your GP and get a free test.\"  Read the full report here: https://www.gov.uk/government/publications/hepatitis-c-in-the-uk  You can also find out if you are at risk by taking online quiz - visit www.britishlivertrust.org.uk/screener.\"",
+    "Description": "UNITED KINGDOM - Significant reduction in deaths from hepatitis C in England, UK Health Security Agency reports\"A new report issued today by the UK Health Security Agency has revealed that there has been considerable progress in eliminating hepatitis C as a public health problem in England, with deaths from the virus falling by 35% between 2015 and 2020.\u00a0 The number of people with chronic hepatitis C has also declined to approximately 81,000 in 2020 (compared to 129,000 in 2015) \u2013 a 37% fall in the general population.\"",
+    "reports": {
+      "diseases": [
+        "hepatitis c"
+      ],
+      "syndromes": [],
+      "event_date": "03-17-2020T00:00:00",
+      "EventType": [
+        "Infected",
+        "Death"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 11919979
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.timesreporter.com/story/news/2022/03/03/pandemic-accounts-most-infectious-diseases-tusc-county-2021/9349918002/",
+    "date_of_publication": "2022-03-03T20:44:00",
+    "headline": "OHIO - COVID-19 Was Most-Reported Communicable Disease In 2021 In Tuscarawas County",
+    "main_text": "COVID-19 was most-reported communicable disease in 2021 in Tuscarawas County  DOVER -- COVID-19 was the most-reported communicable disease in 2021 in Tuscarawas County, according to the county health department's latest annual communicable disease summary. It summarizes all of the county's infectious diseases that were reported to the Tuscarawas County Health Department and the New Philadelphia City Health Department.  A total of 10,253 confirmed and probable cases of COVID-19 were reported in 2021, according to the report. The number represents 95% of all reported diseases in Tuscarawas County residents.  The 2021 COVID case rate per 100,000 population for COVID-19 was 10,993.6. The Ohio case rate for 2021 was 16,195.6. Since the start of the pandemic in 2020, the Tuscarawas County ZIP codes with the highest COVID-19 case rates are as follows, as of Feb. 14, 2022: 44671, Sandyville, case rate per 100,000, 27,931.0; 44622, Dover, case rate per 100,000, 25,828.4; 44682, Tuscarawas, case rate per 100,000, 23,786.4; 44621, Dennison, case rate per 100,000, 23,503; and 44663, New Philadelphia, case rate per 100,000, 23,211.8.  In 2021, there were 10,937 disease investigations completed between the New Philadelphia health department and the county health department, a 63% increase from 2020.  The top 10 most-reported diseases, excluding COVID-19 were chlamydia, gonorrhea, hepatitis C, Lyme disease, campylobacteriosis, cryptosporidiosis, streptococcus pneumoniae, hepatitis A, Legionnaires' disease and hepatitis B.  The summary includes cases of reportable diseases that were diagnosed among residents of Tuscarawas County, reported to public health, and found to meet the public health surveillance definition of a confirmed, probable or suspected case. The data do not represent all cases of reportable infectious disease that occurred in the community, as individuals may not seek medical care for mild or asymptomatic infections, and laboratory tests are not always conducted.  The summary is meant to provide residents, healthcare organizations and providers with information about preventable diseases.  This report provides data on Tuscarawas County as a whole, and data broken down by the Tuscarawas County Health Department and the New Philadelphia City Health Department jurisdictions.  The departments conduct disease surveillance to determine where patterns, clusters, and outbreaks may be detected. Timely and complete disease reporting allows public health professionals to respond to the changing health status of the community and ensure that prevention activities reach the right people, according to a prepared statement from the county health department.  The summary can be found at https://www.tchdnow.org/uploads/4/2/8/6/42860741/communicable_disease_annual_summary_20 21_final.pdf. For more information, contact the county health department at 330-343-5555.",
+    "Description": "OHIO - COVID-19 was most-reported communicable disease in 2021 in Tuscarawas County\"COVID-19 was the most-reported communicable disease in 2021 in Tuscarawas County, according to the county health department's latest annual communicable disease summary.\"",
+    "reports": {
+      "diseases": [
+        "cryptosporidiosis",
+        "hepatitis a",
+        "hepatitis b",
+        "hepatitis c",
+        "COVID-19"
+      ],
+      "syndromes": [],
+      "event_date": "03-19-2022T00:00:00",
+      "EventType": [
+        "Infected",
+        "Presence"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.wftv.com/news/local/polk-county-confirms-first-rabies-case-2022/UJFLC5U3WJHZRBNDTN4HNX4WGM/",
+    "date_of_publication": "2022-03-03T20:42:00",
+    "headline": "FLORIDA - Polk County Confirms First Rabies Case Of 2022",
+    "main_text": "POLK COUNTY, Fla. -- Animal Control officials have confirmed the first case of rabies this year in Polk County.  Officials said a bat had tested positive for the deadly virus on March 3.  >>> STREAM CHANNEL 9 EYEWITNESS NEWS LIVE <<<  According to the the Polk County Sheriff's Office Animal Control Section, a family dog in the Lake Mirror area of Winter Haven was found with a live bat in its mouth March 1.  The family contacted Animal Control which then sent the bat to a Tampa lab for testing.  WATCH: Channel 9 news crew, Drone 9 witness low visibility near I-95 deadly crashes  First case of rabies in 2022. Family dog in Winter Haven had the bat in its mouth. Dog was current on rabies vaccination.#PCSO #Rabies #GetYourPetsVaccinated https://t.co/w30iGPw2Pd pic.twitter.com/8SCAdWeEFk -- Polk County Sheriff  Grady Judd (@PolkCoSheriff) March 3, 2022  Officials say the dog was current on its rabies vaccination, but will still need to be quarantined to make sure it is not infected.  Polk County had five confirmed cases of rabies in 2021, and two in 2020.  Read: Markeith Loyd sentenced to death in killing of Orlando police Lt Debra Clayton  Officials warn residents if a wild mammal is acting aggressive or appears sick to stay away and contact Animal Control immediately.  Click here to download the free WFTV news and weather apps, click here to download the WFTV Now app for your smart TV and click here to stream Channel 9 Eyewitness News live.  (c)2022 Cox Media Group",
+    "Description": "FLORIDA - Polk County confirms first rabies case of 2022\"Animal Control officials have confirmed the first case of rabies this year in Polk County.\"",
+    "reports": {
+      "diseases": [
+        "rabies"
+      ],
+      "syndromes": [],
+      "event_date": "03-03-2022T00:00:00",
+      "EventType": [
+        "Death"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.news.com.au/lifestyle/health/health-problems/concern-as-mosquitoborne-japanese-encephalitis-virus-detected-in-southern-australia-for-first-time/news-story/7de3d8f8e97fe42aa54705c35e7f212c",
+    "date_of_publication": "2022-03-03T20:41:00",
+    "headline": "AUSTRALIA - Rare Mosquito-Borne Japanese Virus Detected In Queensland",
+    "main_text": "An urgent public health alert has been issued after the first human case of a serious mosquito-borne virus was detected in Queensland.  A public health alert has been issued following the first confirmed human case of a rare mosquito-borne virus in Queensland.  The person recently travelled throughout southern Queensland and is being treated in a Brisbane hospital.  The Japanese Encephalitis Virus is spread through the bite of an infected mosquito to people and animals.  In animals, it mostly occurs in pigs and horses.  Clinicians at Queensland hospitals have been urged to watch out for the virus in people presenting with brain swelling or similar symptoms.  Most human infections cause no symptoms or mild ones such as headache or fever.  But a person with severe disease may present with inflammation of the brain, characterised by sudden onset of vomiting, high fever and chills, severe headache, sensitivity to light, neck stiffness and nausea or vomiting.  Children aged under five and older people are at a higher risk of developing more severe illness.  \"We encourage Queenslanders to take necessary steps to prevent being bitten by mosquitoes, especially given the recent flooding event which may lead to an increase in mosquito numbers in coming weeks,\" Queensland Health said in a statement on Thursday night.  The human case follows a detection at a piggery in southern Queensland last week.  There have also been detections in NSW, Victoria and South Australia.  \"There is no risk to humans from consuming pork or pig products. Pork products are safe to eat,\" Queensland Health said.  \"The virus cannot be spread directly from person to person.\"  Queensland Health is working with the Department of Agriculture as well as state, territory and federal agencies to discuss a national response.  Support is also being provided to intensive livestock industry workers.  Further south, NSW officials are responding to an outbreak in animals of the mosquito-borne disease, which has never been seen in southern Australia before.  Officials realised last week Japanese Encephalitis was spreading in piggeries in the state's south after agriculture businesses noticed an increase in stillborn piglets.  The disease has been detected in six piggeries in NSW, one in Victoria and one in Queensland.  Four human cases have been detected in Victoria.  People have been warned to avoid being bit by mosquitoes and there are concerns the insects will spike in numbers due to the ongoing flooding crisis.  Japanese encephalitis has never been detected in southern Australia before.  NSW health secretary Elizabeth Koff told a budget estimates hearing on Thursday officials were focused on preventing Japanese encephalitis from spreading to people.  Though most people who get infected experience no symptoms, children are vulnerable and on rare occasions get seriously ill.  Symptoms include fever, joint pain and rashes and in severe cases patients have suffered from neurological illness with headaches, convulsions and loss of consciousness.  \"It's most concerning in the under-five age group,\" Ms Koff said.  She added NSW had secured \"plentiful supplies\" of vaccines that can protect against the disease.  In a warning issued last weekend, NSW chief health officer Kerry Chant said people should take care to protect themselves against mosquito bites.  NSW health secretary Elizabeth Koff said officials were focused on preventing the disease from spreading to humans. Picture: NCA NewsWire / Gaye Gerard  \"It is really important to protect yourself from mosquito bites as mosquitoes can spread viruses including Japanese encephalitis,\" she said.  The current Japanese encephalitis outbreak is the first time the virus has been detected in southern Australia, according to Australian Chief Veterinary Officer Dr Mark Schipp.  \"Biosecurity authorities are working with their human health departments to understand the implications and risks of human exposure,\" he said earlier in the week.  The wet summer has provided good breeding conditions for mosquitoes and stagnant pools of water left by the ongoing floods on the east coast could lead to an even bigger increase.  \"Mosquitoes carry multiple and potentially dangerous illnesses, and people in rain-affected areas are particularly vulnerable right now given these conditions are ripe for mosquito activity,\" Queensland Health Minister Yvette D'Ath said earlier in the week.  \"Some of the most common mosquito-borne illnesses are Ross River virus, Barmah Forest virus and malaria, though these are only some of what can be spread by a mosquito bite.\"",
+    "Description": "AUSTRALIA - Rare mosquito-borne Japanese virus detected in Queensland\"A public health alert has been issued following the first confirmed human case of a rare mosquito-borne virus in Queensland.\"",
+    "reports": {
+      "diseases": [
+        "malaria"
+      ],
+      "syndromes": [
+        "Encephalitis"
+      ],
+      "event_date": "05-17-2022T00:00:00",
+      "EventType": [
+        "Infected",
+        "Presence"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://patch.com/us/across-america/new-details-emerge-after-bacteria-aromatherapy-spray-sickens-4",
+    "date_of_publication": "2022-03-03T20:41:00",
+    "headline": "GEORGIA - Rare Tropical Disease Linked To Aromatherapy Spray Killed 2",
+    "main_text": "Health & Fitness Rare Tropical Disease Linked To Aromatherapy Spray Killed 2 Walmart recalled Better Homes and Gardens aromatherapy room sprays after bacteria sickened four people. Two died, including a Georgia boy. Replies (9)  The Centers for Disease Control and Prevention confirmed that bacteria in a recalled aromatherapy room spray in a melioidosis patient's home genetically matched strains found in the patient. Georgia and Kansas patients died. (Photos credit: United States Consumer Product Safety Commission)  ATLANTA, GA -- A 5-year-old boy in Georgia and a 53-year-old woman in Kansas died from a rare tropical disease -- typically found in South Asia -- that was linked to an imported aromatherapy spray product sold at Walmart stores.  That's according to new details published Thursday in the New England Journal of Medicine, which outlined four cases of melioidosis in Georgia, Kansas, Minnesota and Texas, that were linked to bottles of room sprays from Better Homes and Gardens. The bottles were labeled as a \"highly fragranced essential oil and semi-precious stone infused room spray\" with a \"lavender and chamomile\" scent. And now, the authors say health care professionals should more closely consider melioidosis in patients showing similar symptoms, even if they haven't traveled to places where the disease is endemic.  As Patch previously reported, Walmart recalled about 3,900 bottles of \"Better Homes and Gardens Essential Oil Infused Aromatherapy Room Spray with Gemstones.\" The aromatherapy room spray was sold at 55 Walmart stores and online from February 2021 through October 2021 for about $4. One bottle of the essential oil sprays was found to contain Burkholderia pseudomallei, a dangerous bacteria that lives in soil and water and causes the melioidosis infection when ingested, breathed or absorbed through the skin.  The infection, also called Whitmore's disease, can lead to skin abscesses in the absence of fever, pneumonia, sepsis, organ abscesses, genital infection, and inflamed brain or spinal cord. Most melioidosis cases are reported in Thailand, Malaysia, Singapore and Northern Australia, as well as several other South Asia countries, though there have been cases reported in Puerto Rico, the British and U.S. Virgin Islands, Central and South America, and parts of Africa and the Middle East, according to the federal Centers for Disease Control and Prevention.  But in America, cases are exceedingly rare. About a dozen are reported to the CDC each year, and the vast majority are linked to travel to areas where melioidosis is endemic. So experts were puzzled when two people in America died from the bacteria, and none of the four in the cluster of cases -- which occurred over a period of just a few months -- had traveled internationally. After testing numerous items the four patients were exposed to, researchers connected the strain of bacteria to an aromatherapy spray bottle that was imported from India.  New Details In Melioidosis Cases All four patients were hospitalized early during their clinical course, the researchers said. Initial tests did not reveal a bacterial infection.  Kansas Case In the first case, a 53-year-old woman went to an emergency room March 13 in Kansas. The woman fell ill with shortness of breath, cough, malaise and weakness. She also had an extensive past of medical issues, such as chronic obstructive pulmonary disease, or COPD, cirrhosis due to hepatitis C, coronary artery disease, hypothyroidism, psoriatic arthritis and drug and alcohol abuse. She was given antibiotics for pneumonia and a urinary tract infection, the researchers said, as steroids for the COPD. But her condition deteriorated to the point where she was moved to an intensive care unit on day four and given a wider array of antibiotics. Two days later, she developed septic shock and had to be placed on a ventilator. She died on her ninth day in the hospital. A post-death examination was not performed, the researchers said.  Texas Case Two months later, a 4-year-old girl in Texas fell ill. She visited a doctor May 31 after three days with a fever, decreased activity, loss of appetite and a day of vomiting. The girl had no significant medical history and hadn't traveled out of the country. After an unremarkable exam, she was diagnosed with viral gastroenteritis. Two days later, she was taken to an urgent care clinic because the fever continued, now at 103 degrees. She was diagnosed with a urinary tract infection after a test of her urine, and was sent home with a penicillin-type antibiotic used to treat bacterial infections.  The girl's condition initially improved, but she returned to the emergency department two days later with intermittent fevers, vomiting and progressive lethargy. She had a fever of nearly 101 degrees and was tachycardic and tachypneic, meaning her heart was beating abnormally fast and her breathing was atypically rapid. Additionally, her white-cell count was 16,000 per cubic millimeter, lower than the 17,7000 she had just two days earlier. The girl tested positive for human rhinovirus and enterovirus, and she was admitted into a children's ICU. She was diagnosed with septic shock and meningoencephalitis, or serious inflammation of the brain and membranes that protect the brain and spinal cord. She received ceftriaxone, an anti-bacterial medication, and had to be intubated due to falling blood-oxygen levels. She was also given anti-inflammatory drugs. But her breathing and neurologic conditions continued to decline while in the ICU, and she had to receive broader antibiotics. She was eventually diagnosed with melioidosis after a blood culture grew the bacteria, which was initially misidentified. She received drug treatments for eight weeks, followed by months of eradication therapy. \"Three months after discharge, the patient remained wheelchair-bound and nonverbal,\" the researchers said Minnesota Case Also in late May, a 53-year-old man was rushed to a Minnesota emergency room after family members found him weak and in an altered mental state.  The man had a history of medical issues, including a dependence on alcohol and tobacco. He, too, hadn't traveled internationally. An MRI of his brain showed his condition was consistent with Wernicke's encephalopathy. The neurological disease is often characterized by confusion, an inability to coordinate voluntary movement and eye abnormalities. He was admitted to a hospital for treatment of acute metabolic encephalopathy. The man experienced hip pain while in the hospital, and additional MRI images showed some degeneration changes. After six days in the hospital, he was discharged to a transitional care facility.  But on June 6, just eight days after his initial emergency room visit, the man was moved back to the ER with a 104-degree fever and deteriorating mental state. His oxygen saturation had fallen to 90 percent. He was given medication after chest scans showed evidence of pneumonia. Those meds were later switched to However, meropenem was later switched to antibiotics after he developed a new rash. The man's fever waned, and he was weaned off oxygen.  On day six, the fever returned and the pain in his right hip worsened. An MRI showed acute inflammation, including myositis -- a rare disease characterized by inflamed muscles that can cause muscle fatigue and weakness -- a possibly septic hip and inflammation in his right pelvic bone. As in other cases, blood cultures initially misidentified the bacteria. The Burkholderia pseudomallei was later identified on blood cultures and from a sample of his right hip joint. The patient was discharged to a transitional care facility June 23. He completed eight weeks of intravenous drugs and was given a schedule for eradication therapy. But even after discharge, he remained confused, researchers said, and showed evidence of osteonecrosis of the infected hip joint. In the disease, a lack of blood causes the bone to break down faster than the body can replenish new bone. The bone starts to die and may break down. Georgia Case In Georgia, a 5-year-old boy was taken to the emergency room July 12 after three days of weakness, fever, tongue swelling, sore throat, nausea and vomiting. Similar to the girl in Texas, he did not have a history of major medical issues. And like the other three cases, he hadn't traveled outside the country. The boy had a fever of about 102 degrees and also had a an abnormally rapid heart beat, as well as intermittent periods of atypically rapid breathing. He also had an elevated white-cell count. Tests showed he was positive for severe acute respiratory syndrome coronavirus 2, more commonly known as the coronavirus. The virus causes the COVID-19 disease.  The boy was admitted to the hospital for observation and rehydration. But his oxygen saturation levels fell overnight, and he was moved to an ICU due to concerns of imminent breathing failure. After chest images later showed opacities and fluid in his lungs, the boy was given remdesivir and dexamethasone, common treatments for COVID-19. He as also given anti-inflammatory and anti-bacterial drugs, and later an antibiotic used to treat certain serious bacterial infections. But the boy's fever persisted and his breathing continued to deteriorate. On the third day in the hospital, his right arm fell weak. A day later, his pupils became dilated and nonreactive. A CT scan showed a large cerebral infarct. Also called ischemic stroke, the infarction happens when there's disrupted blood flow to the brain, and can cause parts of the brain to die off. The boy's heart and lungs progressively deteriorated despite efforts to resuscitate him. He was left in a vegetative state and died on his fourth day in the hospital. Tests performed during his autopsy showed the bacteria Burkholderia pseudomallei in his lungs, liver, spleen and brain, as well as COVID-19 in his lungs. Bacteria Links Four Deaths Across Four States Melioidosis was detected in all four patients, who each fell severely ill and who hadn't traveled to places where melioidosis was endemic. However, melioidosis might not have been initially considered because the four had not traveled to areas where the disease is endemic. Additionally, initial tests didn't uncover a Burkholderia pseudomallei infection.",
+    "Description": "GEORGIA - Rare Tropical Disease Linked To Aromatherapy Spray Killed 2\"A 5-year-old boy in Georgia and a 53-year-old woman in Kansas died from a rare tropical disease \u2014 typically found in South Asia \u2014 that was linked to an imported aromatherapy spray product sold at Walmart stores.\"",
+    "reports": {
+      "diseases": [
+        "hepatitis c",
+        "COVID-19"
+      ],
+      "syndromes": [
+        "Acute respiratory syndrome",
+        "Encephalitis"
+      ],
+      "event_date": "03-02-2022T00:00:00",
+      "EventType": [],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://patch.com/us/across-america/new-details-emerge-after-bacteria-aromatherapy-spray-sickens-4",
+    "date_of_publication": "2022-03-03T20:40:00",
+    "headline": "KANSAS - Rare Tropical Disease Linked To Aromatherapy Spray Killed 2",
+    "main_text": "Health & Fitness Rare Tropical Disease Linked To Aromatherapy Spray Killed 2 Walmart recalled Better Homes and Gardens aromatherapy room sprays after bacteria sickened four people. Two died, including a Georgia boy. Replies (9)  The Centers for Disease Control and Prevention confirmed that bacteria in a recalled aromatherapy room spray in a melioidosis patient's home genetically matched strains found in the patient. Georgia and Kansas patients died. (Photos credit: United States Consumer Product Safety Commission)  ATLANTA, GA -- A 5-year-old boy in Georgia and a 53-year-old woman in Kansas died from a rare tropical disease -- typically found in South Asia -- that was linked to an imported aromatherapy spray product sold at Walmart stores.  That's according to new details published Thursday in the New England Journal of Medicine, which outlined four cases of melioidosis in Georgia, Kansas, Minnesota and Texas, that were linked to bottles of room sprays from Better Homes and Gardens. The bottles were labeled as a \"highly fragranced essential oil and semi-precious stone infused room spray\" with a \"lavender and chamomile\" scent. And now, the authors say health care professionals should more closely consider melioidosis in patients showing similar symptoms, even if they haven't traveled to places where the disease is endemic.  As Patch previously reported, Walmart recalled about 3,900 bottles of \"Better Homes and Gardens Essential Oil Infused Aromatherapy Room Spray with Gemstones.\" The aromatherapy room spray was sold at 55 Walmart stores and online from February 2021 through October 2021 for about $4. One bottle of the essential oil sprays was found to contain Burkholderia pseudomallei, a dangerous bacteria that lives in soil and water and causes the melioidosis infection when ingested, breathed or absorbed through the skin.  The infection, also called Whitmore's disease, can lead to skin abscesses in the absence of fever, pneumonia, sepsis, organ abscesses, genital infection, and inflamed brain or spinal cord. Most melioidosis cases are reported in Thailand, Malaysia, Singapore and Northern Australia, as well as several other South Asia countries, though there have been cases reported in Puerto Rico, the British and U.S. Virgin Islands, Central and South America, and parts of Africa and the Middle East, according to the federal Centers for Disease Control and Prevention.  But in America, cases are exceedingly rare. About a dozen are reported to the CDC each year, and the vast majority are linked to travel to areas where melioidosis is endemic. So experts were puzzled when two people in America died from the bacteria, and none of the four in the cluster of cases -- which occurred over a period of just a few months -- had traveled internationally. After testing numerous items the four patients were exposed to, researchers connected the strain of bacteria to an aromatherapy spray bottle that was imported from India.  New Details In Melioidosis Cases All four patients were hospitalized early during their clinical course, the researchers said. Initial tests did not reveal a bacterial infection.  Kansas Case In the first case, a 53-year-old woman went to an emergency room March 13 in Kansas. The woman fell ill with shortness of breath, cough, malaise and weakness. She also had an extensive past of medical issues, such as chronic obstructive pulmonary disease, or COPD, cirrhosis due to hepatitis C, coronary artery disease, hypothyroidism, psoriatic arthritis and drug and alcohol abuse. She was given antibiotics for pneumonia and a urinary tract infection, the researchers said, as steroids for the COPD. But her condition deteriorated to the point where she was moved to an intensive care unit on day four and given a wider array of antibiotics. Two days later, she developed septic shock and had to be placed on a ventilator. She died on her ninth day in the hospital. A post-death examination was not performed, the researchers said.  Texas Case Two months later, a 4-year-old girl in Texas fell ill. She visited a doctor May 31 after three days with a fever, decreased activity, loss of appetite and a day of vomiting. The girl had no significant medical history and hadn't traveled out of the country. After an unremarkable exam, she was diagnosed with viral gastroenteritis. Two days later, she was taken to an urgent care clinic because the fever continued, now at 103 degrees. She was diagnosed with a urinary tract infection after a test of her urine, and was sent home with a penicillin-type antibiotic used to treat bacterial infections.  The girl's condition initially improved, but she returned to the emergency department two days later with intermittent fevers, vomiting and progressive lethargy. She had a fever of nearly 101 degrees and was tachycardic and tachypneic, meaning her heart was beating abnormally fast and her breathing was atypically rapid. Additionally, her white-cell count was 16,000 per cubic millimeter, lower than the 17,7000 she had just two days earlier. The girl tested positive for human rhinovirus and enterovirus, and she was admitted into a children's ICU. She was diagnosed with septic shock and meningoencephalitis, or serious inflammation of the brain and membranes that protect the brain and spinal cord. She received ceftriaxone, an anti-bacterial medication, and had to be intubated due to falling blood-oxygen levels. She was also given anti-inflammatory drugs. But her breathing and neurologic conditions continued to decline while in the ICU, and she had to receive broader antibiotics. She was eventually diagnosed with melioidosis after a blood culture grew the bacteria, which was initially misidentified. She received drug treatments for eight weeks, followed by months of eradication therapy. \"Three months after discharge, the patient remained wheelchair-bound and nonverbal,\" the researchers said Minnesota Case Also in late May, a 53-year-old man was rushed to a Minnesota emergency room after family members found him weak and in an altered mental state.  The man had a history of medical issues, including a dependence on alcohol and tobacco. He, too, hadn't traveled internationally. An MRI of his brain showed his condition was consistent with Wernicke's encephalopathy. The neurological disease is often characterized by confusion, an inability to coordinate voluntary movement and eye abnormalities. He was admitted to a hospital for treatment of acute metabolic encephalopathy. The man experienced hip pain while in the hospital, and additional MRI images showed some degeneration changes. After six days in the hospital, he was discharged to a transitional care facility.  But on June 6, just eight days after his initial emergency room visit, the man was moved back to the ER with a 104-degree fever and deteriorating mental state. His oxygen saturation had fallen to 90 percent. He was given medication after chest scans showed evidence of pneumonia. Those meds were later switched to However, meropenem was later switched to antibiotics after he developed a new rash. The man's fever waned, and he was weaned off oxygen.  On day six, the fever returned and the pain in his right hip worsened. An MRI showed acute inflammation, including myositis -- a rare disease characterized by inflamed muscles that can cause muscle fatigue and weakness -- a possibly septic hip and inflammation in his right pelvic bone. As in other cases, blood cultures initially misidentified the bacteria. The Burkholderia pseudomallei was later identified on blood cultures and from a sample of his right hip joint. The patient was discharged to a transitional care facility June 23. He completed eight weeks of intravenous drugs and was given a schedule for eradication therapy. But even after discharge, he remained confused, researchers said, and showed evidence of osteonecrosis of the infected hip joint. In the disease, a lack of blood causes the bone to break down faster than the body can replenish new bone. The bone starts to die and may break down. Georgia Case In Georgia, a 5-year-old boy was taken to the emergency room July 12 after three days of weakness, fever, tongue swelling, sore throat, nausea and vomiting. Similar to the girl in Texas, he did not have a history of major medical issues. And like the other three cases, he hadn't traveled outside the country. The boy had a fever of about 102 degrees and also had a an abnormally rapid heart beat, as well as intermittent periods of atypically rapid breathing. He also had an elevated white-cell count. Tests showed he was positive for severe acute respiratory syndrome coronavirus 2, more commonly known as the coronavirus. The virus causes the COVID-19 disease.  The boy was admitted to the hospital for observation and rehydration. But his oxygen saturation levels fell overnight, and he was moved to an ICU due to concerns of imminent breathing failure. After chest images later showed opacities and fluid in his lungs, the boy was given remdesivir and dexamethasone, common treatments for COVID-19. He as also given anti-inflammatory and anti-bacterial drugs, and later an antibiotic used to treat certain serious bacterial infections. But the boy's fever persisted and his breathing continued to deteriorate. On the third day in the hospital, his right arm fell weak. A day later, his pupils became dilated and nonreactive. A CT scan showed a large cerebral infarct. Also called ischemic stroke, the infarction happens when there's disrupted blood flow to the brain, and can cause parts of the brain to die off. The boy's heart and lungs progressively deteriorated despite efforts to resuscitate him. He was left in a vegetative state and died on his fourth day in the hospital. Tests performed during his autopsy showed the bacteria Burkholderia pseudomallei in his lungs, liver, spleen and brain, as well as COVID-19 in his lungs. Bacteria Links Four Deaths Across Four States Melioidosis was detected in all four patients, who each fell severely ill and who hadn't traveled to places where melioidosis was endemic. However, melioidosis might not have been initially considered because the four had not traveled to areas where the disease is endemic. Additionally, initial tests didn't uncover a Burkholderia pseudomallei infection.",
+    "Description": "KANSAS - Rare Tropical Disease Linked To Aromatherapy Spray Killed 2\"A 5-year-old boy in Georgia and a 53-year-old woman in Kansas died from a rare tropical disease \u2014 typically found in South Asia \u2014 that was linked to an imported aromatherapy spray product sold at Walmart stores.\"",
+    "reports": {
+      "diseases": [
+        "hepatitis c",
+        "COVID-19"
+      ],
+      "syndromes": [
+        "Acute respiratory syndrome",
+        "Encephalitis"
+      ],
+      "event_date": "03-02-2022T00:00:00",
+      "EventType": [],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "http://www.xinhuanet.com/english/20220303/480b15fecf3f47c28209dba4f4c7beb6/c.html",
+    "date_of_publication": "2022-03-03T20:33:00",
+    "headline": "NIGERIA - Lassa Fever Kills 2 Medical Doctors In Nigeria",
+    "main_text": "ABUJA, March 3 (Xinhua) -- Two medical doctors have been confirmed killed by Lassa fever in the past 72 hours in Nigeria's southwestern state of Oyo, a medical association said on Thursday.  In a statement, the Nigerian Medical Association (NMA) described the outbreak of Lassa fever in the country as \"another onslaught,\" noting that it broke out \"while we thought that COVID-19 had done its worst.\"  \"We are worried about other health workers who have had contact with the deceased unknowingly,\" the NMA said, adding it had advised other affected health workers to be quarantined and treat all febrile illnesses with a high index of suspicion.  Lassa fever is usually transmitted when the saliva, urine, and excreta of multi-mammalian rats come into contact with humans through their food or water. Human-to-human transmission is rare but can occur through contact with the body fluids of an infected person.  In some cases, Lassa fever has similar symptoms to malaria, appearing between one and three weeks after exposure to the virus. In mild cases, the disease causes fever, fatigue, weakness, and headache.  As part of measures to contain the outbreak among medical workers, the NMA said it had directed the frontline doctors and other health workers to wear appropriate personal protective equipment at all times.  On Saturday, the Nigeria Center for Disease Control (NCDC) said the death toll of Lassa fever in the most populous African country had risen to 86 as of Feb. 21.  The NCDC said 74 out of the country's 774 local government areas have been affected by this hemorrhagic fever since January.  The case fatality rate in the country so far this year has reached 19.1 percent, the NCDC said.  The NCDC said it is distributing medical response commodities to states and treatment centers, as part of measures to control the spread.  Nigeria has activated the national multi-sectoral and multi-disciplinary Lassa fever emergency operations center in response to the outbreak since late January. #",
+    "Description": "NIGERIA - Lassa fever kills 2 medical doctors in Nigeria\"Two medical doctors have been confirmed killed by Lassa fever in the past 72 hours in Nigeria's southwestern state of Oyo, a medical association said on Thursday.\"",
+    "reports": {
+      "diseases": [
+        "lassa fever",
+        "malaria",
+        "COVID-19"
+      ],
+      "syndromes": [],
+      "event_date": "03-03-2022T00:00:00",
+      "EventType": [
+        "Presence",
+        "Death",
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 2352778
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.brytfmonline.com/outbreaks-of-dengue-mosquitoes-have-been-found-in-vases-pots-and-dishes-in-santo-antonio-de-lisbon-and-sambaqui/",
+    "date_of_publication": "2022-03-03T20:23:00",
+    "headline": "BRAZIL - Outbreaks Of Dengue Mosquitoes Have Been Found In Vases - Pots And Dishes In Santo Antonio",
+    "main_text": "press office    Last week, clients from the Florianopolis Zoonotic Disease Control Center identified an outbreak of dengue mosquitoes in Santo Antonio de Lisbon and Sambaqui.  Follow the Digital Island Portal on Google News  92 and 47 foci were identified, respectively. Foci are found in several sediments, the most important of which are the so-called mobile sediments such as plates, vases and pots.  The Center for Zoonoses Control team explains that vases or pots, regardless of whether they are made of any material such as ceramic, crockery, plastic or glass, should be washed with a sponge/loofah and soap to remove mosquito eggs on the container wall, as well as to eliminate larvae that develop in water. This procedure is sufficient if it is done at least once a week.  In addition to the measures already implemented in Santo Antonio and Sambaqui, there are joint efforts against dengue fever that began last week in the Ratones neighborhood, which are still ongoing. The municipal administration stresses once again the importance of allocating residents about 10 minutes a week to remove or change (dig, seal, sieve, overturn) any sediment in which stagnant water may accumulate, in order to prevent the spread of mosquitoes in the capital.  With information from ASCOM / PMF",
+    "Description": "BRAZIL - Outbreaks of dengue mosquitoes have been found in vases, pots and dishes in Santo Antonio de Lisbon and Sambaqui\"Last week, clients from the Florian\u00f3polis Zoonotic Disease Control Center identified an outbreak of dengue mosquitoes in Santo Antonio de Lisbon and Sambaqui.\"",
+    "reports": {
+      "diseases": [
+        "dengue"
+      ],
+      "syndromes": [],
+      "event_date": "03-17-1992T00:00:00",
+      "EventType": [
+        "Presence",
+        "Infected"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "https://www.bolnews.com/health/2022/03/fiji-sees-increase-in-leptospirosis-dengue-fever-cases/",
+    "date_of_publication": "2022-03-03T20:22:00",
+    "headline": "FIJI - Fiji Sees Increase In Leptospirosis - Dengue Fever Cases",
+    "main_text": "SUVA - Fiji has seen an increase in the number of people being admitted to the hospital with leptospirosis and dengue fever, said Fiji's Ministry of Health Permanent Secretary James Fong.  Fong said on Thursday nine children were admitted to the Colonial War Memorial Hospital in Suva, capital of the island country, over the weekend.  He said three more people have died, including a 63-year-old, an eight-year-old and a 20-year-old.  There have been 567 confirmed cases of leptospirosis this year, with outbreaks continuing in all four parts of the country.  Read more: Over 97,000 persons in Fiji receive booster vaccine doses  Apart from leptospirosis, Fong said 249 cases of dengue fever have been recorded in the western part of the country, with statistics beyond the number expected during this time of the year.  He said the central part of the country recorded 166 cases, while 153 cases were detected in the northern part and 65 cases in the eastern part.  The total number of the confirmed cases around the country now stands at 633.",
+    "Description": "FIJI - Fiji sees increase in leptospirosis, dengue fever cases\"There have been 567 confirmed cases of leptospirosis this year, with outbreaks continuing in all four parts of the country.\"",
+    "reports": {
+      "diseases": [
+        "dengue"
+      ],
+      "syndromes": [],
+      "event_date": "03-17-2022T00:00:00",
+      "EventType": [
+        "Presence"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 2205218
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.bolnews.com/health/2022/03/fiji-sees-increase-in-leptospirosis-dengue-fever-cases/",
+    "date_of_publication": "2022-03-03T20:21:00",
+    "headline": "FIJI - Fiji Sees Increase In Leptospirosis - Dengue Fever Cases",
+    "main_text": "SUVA - Fiji has seen an increase in the number of people being admitted to the hospital with leptospirosis and dengue fever, said Fiji's Ministry of Health Permanent Secretary James Fong.  Fong said on Thursday nine children were admitted to the Colonial War Memorial Hospital in Suva, capital of the island country, over the weekend.  He said three more people have died, including a 63-year-old, an eight-year-old and a 20-year-old.  There have been 567 confirmed cases of leptospirosis this year, with outbreaks continuing in all four parts of the country.  Read more: Over 97,000 persons in Fiji receive booster vaccine doses  Apart from leptospirosis, Fong said 249 cases of dengue fever have been recorded in the western part of the country, with statistics beyond the number expected during this time of the year.  He said the central part of the country recorded 166 cases, while 153 cases were detected in the northern part and 65 cases in the eastern part.  The total number of the confirmed cases around the country now stands at 633.",
+    "Description": "FIJI - Fiji sees increase in leptospirosis, dengue fever cases\"Apart from leptospirosis, Fong said 249 cases of dengue fever have been recorded in the western part of the country, with statistics beyond the number expected during this time of the year.\"",
+    "reports": {
+      "diseases": [
+        "dengue"
+      ],
+      "syndromes": [],
+      "event_date": "03-17-2022T00:00:00",
+      "EventType": [
+        "Presence"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 2205218
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.agriculture.com/news/business/first-case-of-high-path-bird-flu-west-of-the-mississippi",
+    "date_of_publication": "2022-03-03T20:20:00",
+    "headline": "MISSISSIPPI - First Case Of High Path Bird Flu West Of The Mississippi",
+    "main_text": "The lethal poultry disease highly pathogenic avian influenza (HPAI) has been identified in a backyard flock in Iowa, the No. 1 egg-producing state, said the Agriculture Department on Wednesday. It was the first case of \"high path\" bird flu west of the Mississippi River and the 17th found in domestic flocks this year.  \"We recognize the threat HPAI and other foreign animal diseases pose to Iowa agriculture,\" said Mike Naig, Iowa's agriculture secretary. State officials quarantined the site, which is in Pottawattamie County on the Iowa-Nebraska border, said the USDA. The infected mixed-species flock of 42 birds would be destroyed, it said.  Iowa, which produces one of every seven eggs in the country, was the state hit hardest by the bird flu epidemic of 2014 and 2015, with losses of more than 31.5 million turkeys and egg-laying hens. In neighboring Minnesota, the top turkey-growing state, 9 million birds were killed by the virus or culled in attempts to stop its spread.  Overall, 50 million birds, mostly hens and turkeys, died in the 2014-15 epidemic, which drove up egg prices in the grocery store and caused economic losses of more than $1 billion.  More than 1.6 million birds, mostly chickens, have died in this year's outbreaks, which began in early February and were the first incidents of HPAI in commercial poultry flocks in two years. The Animal and Plant Health Inspection Service has listed 17 cases in nine states: Connecticut, Delaware, Indiana, Iowa, Kentucky, Maine, Michigan, New York, and Virginia.  Indiana has had the largest number of outbreaks -- five confirmed and one pending -- while Delaware has had the largest loss: 12 million birds on a poultry farm in New Castle County. Iowa and Connecticut have the newest confirmed outbreaks. The Connecticut case involved a mixed-species backyard flock of 100 birds in New London County, in the southeastern corner of the state.  HPAI can be spread by migratory waterfowl and their droppings; it can also be spread from barn to barn by workers and contaminated equipment. \"The best way to protect your birds is to follow good biosecurity,\" with such steps as restricting access to flocks and cleaning clothes, vehicles, and equipment used around flocks, said a USDA fact sheet.  \"We have been working with USDA, livestock producers, and other stakeholders to develop, test, and strengthen our foreign animal disease preparedness and response plans since the 2015 HPAI outbreak,\" said Naig. \"While a case like this is not unexpected, we are working with USDA and other partners to implement our plans and protect the health of poultry flocks in Iowa.\"",
+    "Description": "MISSISSIPPI - FIRST CASE OF \u2018HIGH PATH\u2019 BIRD FLU WEST OF THE MISSISSIPPI\"The lethal poultry disease highly pathogenic avian influenza (HPAI) has been identified in a backyard flock in Iowa, the No. 1 egg-producing state, said the Agriculture Department on Wednesday. It was the first case of \u201chigh path\u201d bird flu west of the Mississippi River and the 17th found in domestic flocks this year.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-01-2022T00:00:00",
+      "EventType": [
+        "Infected",
+        "Presence"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 4862182
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://www.wattagnet.com/articles/44635-eagle-in-vancouver-marks-pacific-flyways-first-hpai-case",
+    "date_of_publication": "2022-03-03T20:19:00",
+    "headline": "CANADA - Eagle In Vancouver Marks Pacific Flyways First HPAI Case",
+    "main_text": "Highly pathogenic avian influenza (HPAI) has reached North America's Pacific Flyway for the first time in 2022.  The World Organisation for Animal Health (OIE) reported the confirmed presence of HPAI of an H5 variant in a bald eagle that had died in the metropolitan area of Vancouver, British Columbia, Canada. The OIE report was issued on March 2.  While this case does not involve commercial poultry and should not result in any poultry trade barriers, it does mark the first case of HPAI in the Pacific Flyway.  Previously, the only case of HPAI in Canadian poultry was in a commercial turkey flock in Nova Scotia. It was also detected in wild birds and backyard birds in Nova Scotia, as well as in Newfoundland and Labrador. The most recent OIE report also revealed the presence of HPAI in an eagle in Prince Edward Island. All of those discoveries were in the Atlantic Flyway. The first case of HPAI in Canada this winter was confirmed at an exhibition farm in Newfoundland and Labrador.  HPAI has also been detected in eight commercial poultry flocks in the United States, specifically in the states of Indiana (5), Kentucky (2) and Delaware (1). Of those eight flocks, six were turkey flocks, while one was a broiler flock and the other was a layer flock. HPAI has also been confirmed in wild birds and backyard flocks in some other states in the Atlantic and Mississippi flyways, which like the Vancouver case, is not a cause for any trade bans.  Advertisement  \"The finding from British Columbia is likely a separate introduction from that in the Atlantic provinces,\" the OIE stated in its report.  Wildlife surveillance as well as the Canadian Avian Influenza Surveillance System (CanNAISS) activities for poultry are ongoing in Canada.  In addition to North America, there have also been confirmed cases of HPAI in the continents of Asia, Europe and Africa.  View our continuing coverage of the global avian influenza situation.",
+    "Description": "CANADA - Eagle in Vancouver marks Pacific Flyway\u2019s first HPAI case\"The World Organisation for Animal Health (OIE) reported the confirmed presence of HPAI of an H5 variant in a bald eagle that had died in the metropolitan area of Vancouver, British Columbia, Canada. The OIE report was issued on March 2.\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "03-17-2022T00:00:00",
+      "EventType": [
+        "Infected"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 6458781
+        },
+        {
+          "geonames_id": 6173331
+        },
+        {
+          "geonames_id": 6251999
+        }
+      ]
+    }
+  },
+  {
+    "URL": "https://whnt.com/news/athens/wild-duck-tests-positive-for-avian-flu-in-limestone-county/",
+    "date_of_publication": "2022-03-03T20:19:00",
+    "headline": "ALABAMA - Wild Duck Tests Positive For Avian Flu In Limestone County",
+    "main_text": "LIMESTONE COUNTY, Ala. (WHNT) -- The U.S. Department (USDA) of Agriculture's Animal and Plant Health Inspection Service (APHIS) has confirmed a wild duck in Limestone County was found to have Avian Influenza (HPAI).  The USDA says the disease was discovered in a wild, hunter-harvested American wigeon.  According to the APHIS, cases of \"Eurasian H5 HPAI\" were found in South Carolina in January 2022, and have since been found in 14 additional states.  Seth Maddox with the Alabama Department of Conservation said the Eurasian H5 Avian Influenza has reached at least 14 other states counting last month's detection.  \"(During) the spring months the temperature starts to warm up and it will kill that virus,\" Maddox said. \"And our waterfowl are migrating back up north as we speak. So a lot of those birds that are carriers of it are getting out and going back up north. So we hope we don't get any more.\"  \"Chickens and turkeys mainly, it's definitely a death sentence if one of those houses get infected,\" Maddox said.  Maddox adds it could mean a serious risk for Alabama's poultry industry, putting state wildlife experts and the U.S. Department of Agriculture on alert.  \"There's high economic impact that could come from this, and it's bad for wildlife too, especially bird species,\" Maddox said. \"So there's high concern with this. As of now we're still monitoring it very closely to see the ramifications of it.\"  Maddox also stresses if you do come across birds that seem disoriented or lifeless on the ground, don't touch them. Instead, contact DCNR as soon as possible. If you live in Tennessee an operator can still connect you with proper authorities, Maddox said.  What to know about the virus:  The USDA states that the HPAI H5 viruses infect the respiratory and gastrointestinal tracts of birds, spreads rapidly, and have potentially high mortality in infected poultry.  Can humans get infected?  According to the Centers for Disease Control (CDC) and Prevention, \"The risk to humans from Eurasian H5 HPAI is low.\" The CDC says there has not been a reported case of Eurasian H5 HPAI in humans in the U.S.  Anyone wanting more information about the risk of the avian flu spreading to humans can visit the CDC's website here.  How was the virus found in Limestone County?  The USDA says samples were collected for testing from the duck in Limestone County during routine monitoring for the disease. Initial tests were positive for Eurasian H5 HPAI, and additional tests by the APHIS National Veterinary Services Laboratories in Ames, Iowa confirmed the positive results.  Should hunters be cautious?  According to the USDA, hunters should minimize direct contact with any wild birds by wearing gloves. Of course, handwashing with soap and warm water is encouraged if direct contact occurs. They also advise changing your clothes before coming into contact with healthy domestic poultry and birds.  Wild birds can be infected with avian influenza without appearing sick.  How can I report a bird I think is infected?  The public is encouraged to report dead or dying bird sightings to the Alabama Department of Conservation and Natural Resources (ADCNR) for collection and testing. You can report a sighting by calling ADCNR's Wildlife and Freshwater Fisheries Division at (334) 242-3469. Officials say it is important to avoid contact with any dead or dying bird.  For information regarding HPAI and domestic poultry, contact the Alabama Department of Agriculture and Industries at (800) 642-7761.",
+    "Description": "ALABAMA - Wild duck tests positive for Avian Flu in Limestone County\"The U.S. Department (USDA) of Agriculture\u2019s Animal and Plant Health Inspection Service (APHIS) has confirmed a wild duck in Limestone County was found to have Avian Influenza (HPAI).\"",
+    "reports": {
+      "diseases": [
+        "other"
+      ],
+      "syndromes": [],
+      "event_date": "01-17-2022T00:00:00",
+      "EventType": [
+        "Death",
+        "Infected"
+      ],
+      "Locations": []
+    }
+  },
+  {
+    "URL": "http://outbreaknewstoday.com/nigeria-reports-4-confirmed-monkeypox-cases-in-the-first-two-months-of-2022/",
+    "date_of_publication": "2022-03-03T20:18:00",
+    "headline": "NIGERIA - Nigeria Reports 4 Confirmed Monkeypox Cases In The First Two Months Of 2022",
+    "main_text": "Nigeria reports 4 confirmed monkeypox cases in the first two months of 2022  NewsDesk @bactiman63  Nigerian health officials reported four confirmed monkeypox cases through February 28 this year. The cases were reported from FCT, Imo, Adamawa and Lagos states.  No deaths were reported.  Since September 2017, Nigeria has continued to report sporadic cases of monkeypox (525).  A total of eight(8) deaths have been recorded (CFR= 3.5%) in six states namely Edo (2), Lagos (2), Imo  (1), Cross River (1), FCT (1) and Rivers (1) from September 2017 to February 28th, 2022.  Monkeypox is a rare disease caused by infection with monkeypox virus. Monkeypox occurs throughout Central and West Africa, often near tropical rain forests.  People become infected with the monkeypox virus through contact with the bodily fluids of infected animals or humans (alive or dead), including respiratory droplets, or through contact with materials contaminated with the virus.  Symptoms include fever (>=100.4degF), headache, muscle aches, and swollen lymph nodes, followed by a rash. Patients are usually ill for 2-4 weeks. Monkeypox is fatal in as many as 1 to 10% of people who become infected. Prior vaccination against smallpox may provide protection against monkeypox.    ",
+    "Description": "NIGERIA - Nigeria reports 4 confirmed monkeypox cases in the first two months of 2022\"Nigerian health officials reported four confirmed monkeypox cases through February 28 this year. The cases were reported from FCT, Imo, Adamawa and Lagos states.\"",
+    "reports": {
+      "diseases": [
+        "smallpox",
+        "monkeypox"
+      ],
+      "syndromes": [],
+      "event_date": "03-04-2022T00:00:00",
+      "EventType": [
+        "Infected",
+        "Death"
+      ],
+      "Locations": [
+        {
+          "geonames_id": 9645131
+        }
+      ]
+    }
+  },
+  {
+    "URL": "http://outbreaknewstoday.com/england-reports-increase-in-norovirus-83900/",
+    "date_of_publication": "2022-03-03T20:17:00",
+    "headline": "UNITED KINGDOM - England Reports Increase In Norovirus",
+    "main_text": "England reports increase in norovirus  NewsDesk @bactiman63  The UK Health Security Agency ( UKHSA ) is reminding the public of simple actions that they can take to reduce the spread of norovirus. The advice comes after routine surveillance in England shows that the number of outbreaks caused by the vomiting bug has increased in recent weeks (4-week period from end January to February), initially in educational settings and now in care home settings.  Norovirus is highly infectious and causes vomiting and diarrhoea but usually passes in a couple of days. It is easily transmitted through contact with infected individuals or contaminated surfaces.  The increase in reported outbreaks was initially in educational settings, particularly in nursery and childcare facilities, with 48% more incidents reported to UKHSA than would be expected.  Reports of norovirus outbreaks in care home settings to UKHSA have also increased in recent weeks in 2022 - with a rise from 24 reported in week 6 (week commencing 7 February), to 40 reported in week 7 (week commencing 14 February).  While outbreaks reported in care home settings overall remain below pre-pandemic expected levels, it is likely they will continue to increase in the coming weeks and a rise in norovirus outbreaks in care home settings often precedes an increase in outbreaks in hospital settings. Therefore, it is important to take steps to limit the spread of norovirus.  Professor Saheer Gharbia, Gastrointestinal Pathogens and Food Safety Directorate, UKHSA , said:  Norovirus, commonly known as the winter vomiting bug, has been at lower levels than normal throughout the pandemic but as people have begun to mix more, the numbers of outbreaks have started to increase again. Symptoms include sudden onset of nausea, projectile vomiting and diarrhoea but can also include a high temperature, abdominal pain and aching limbs. Stay at home if you are experiencing norovirus symptoms and do not return to work or send children to school or nursery until 48 hours after symptoms have cleared. Please avoid visiting elderly relatives if you are unwell - particularly if they are in a care home or hospital. As with COVID-19 and other infectious illnesses, hand washing is really important to help stop the spread of this bug, but remember, unlike for COVID-19 alcohol gels do not kill off norovirus so soap and water is best.  Subscribe to Outbreak News TV on YouTube  How to reduce the spread of norovirus  Stay at home if you are experiencing norovirus symptoms. Do not return to work or send children to school until 48 hours after symptoms have cleared. Also avoid visiting elderly or poorly relatives, particularly if they are in hospital or a care home. Wash your hands frequently and thoroughly with soap and warm water. Alcohol hand gels don't kill norovirus. When an infected person vomits, the droplets contaminate the surrounding surfaces. A bleach-based household cleaner or a combination of bleach and hot water should be used to disinfect potentially contaminated household surfaces and commonly used objects such as toilets, taps, telephones, door handles and kitchen surfaces. If you are ill, avoid cooking and helping prepare meals for others until 48 hours after symptoms have stopped, as norovirus can be spread through food contaminated by the virus when food is handled by symptomatic people or infected individuals. Wash any contaminated clothing or bedding using detergent and at 60degC and, if possible, wear disposable gloves to handle contaminated items.  Norovirus activity has risen as people have begun to mix more - it is possible that unusual or out-of-season increases could be seen in the coming months.    ",
+    "Description": "UNITED KINGDOM - England reports increase in norovirus\"The UK Health Security Agency (UKHSA) is reminding the public of simple actions that they can take to reduce the spread of norovirus. The advice comes after routine surveillance in England shows that the number of outbreaks caused by the vomiting bug has increased in recent weeks (4-week period from end January to February), initially in educational settings and now in care home settings.\"",
+    "reports": {
+      "diseases": [
+        "COVID-19"
+      ],
+      "syndromes": [],
+      "event_date": "03-17-2022T00:00:00",
+      "EventType": [
+        "Infected",
+        "Presence"
+      ],
+      "Locations": []
     }
   }
 ]

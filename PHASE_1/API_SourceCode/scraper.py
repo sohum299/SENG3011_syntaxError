@@ -66,8 +66,6 @@ def getEventDate(text):
     eventDate = Times[0].strftime("%m/%d/%Y %H:%M:%S")
     eventDate = eventDate.replace(" ", "T")
     eventDate = eventDate.replace("/", "-")
-    
-
   return eventDate
 
 

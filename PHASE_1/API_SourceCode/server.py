@@ -65,19 +65,6 @@ parser_create.add_argument('type', type=str, required=True, help='Type of event 
 parser_create.add_argument('location', type=str, required=True, help='location', location='args')
 parser_create.add_argument('date', type=str, required=True, help='Date of the event (yyyy-mm-ddThh:mm:ss)', location='args')
 
-'''
-    Arguments for updating reports
-'''
-parser_update = parser.copy()
-parser_update.add_argument('url', type=str, help='URL of report', location='args', required=False)
-parser_update.add_argument('date_of_publication', type=str, help='Date of report publication', location='args', required=False)
-parser_update.add_argument('headline', type=str, help='Headline of report', location='args', required=False)
-parser_update.add_argument('main_text', type=str, help='Main text of report', location='args', required=False)
-parser_update.add_argument('disease', type=str, help='Disease contained within report', location='args', required=False)
-parser_update.add_argument('syndrome', type=str, help='Syndrome within report', location='args', required=False)
-parser_update.add_argument('type', type=str, help='Type of report', location='args', required=False)
-parser_update.add_argument('location', type=str, help='location in report', location='args', required=False)
-parser_update.add_argument('date', type=str, help='Date of report', location='args', required=False)
 
 data = []
 with open('final.json',"r") as f:
@@ -184,9 +171,9 @@ def get_result(article_id):
     return json.dumps(data[article_id], indent=2)
 
 
-@APP.route('/update/result', methods=['POST'])
+@APP.route('/update/result/<int:article_id>', methods=['POST'])
 def update_result():
-    args = request.get(args)
+    args = parser_create.parse_args()
     with open('output.json', "w+") as f:
         f.write(json.dumps(args, indent = 2))
     '''A report with the given parameters'''
@@ -195,7 +182,7 @@ def update_result():
 
 @APP.route('/add/result', methods=['POST'])
 def add_result():
-    args = request.get(args)
+    args = args = parser_create.parse_args()
     with open('output.json', "w+") as f:
         f.write(json.dumps(args, indent = 2))
     '''Add a new report with the given parameters'''
@@ -203,7 +190,7 @@ def add_result():
 
 @APP.route('/results/<int:article_id>', methods=['DELETE'])
 def remove_result(article_id):
-    args = request.get(args)
+    args = args = parser_create.parse_args()
     with open('output.json', "w+") as f:
         f.write(json.dumps(args))
     return 'Deleted Report'
