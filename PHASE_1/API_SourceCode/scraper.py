@@ -1,3 +1,4 @@
+from multiprocessing.dummy import Process
 from time import sleep
 from tkinter import EventType
 from selenium import webdriver
@@ -26,6 +27,79 @@ from datetime import datetime
 #split the string so that its just that sentence
 # look for number of cases/Disease/Syndrome + conjunction/disjunction
 
+# def UniqueDisease(data,sentence, word):
+#   DiseaseList = []
+#   for disease in data: 
+#     if disease["name"].lower() in sentence.lower() and disease["name"].lower() != word.lower():
+#       DiseaseList.append(disease["name"])
+#   return DiseaseList
+
+
+# def HowManyReports(text):
+#   sentences = sent_tokenize(text)
+#   DiseaseList = {}
+#   Uncertainty = ["or", "to be confirmed", "uncertain", "possibly",]
+#   ExclusionList = ["similar to", "like", "same as", "identical", "parallel", "the same as", "alike", "resembling"]
+#   ProcessedDiseases = []
+#   f = open("disease_list.json","r") 
+#   data = json.load(f)
+#   for word in data:
+#     if word in ProcessedDiseases:
+#         continue
+#     for sentence in sentences:
+#       for similarity in ExclusionList:
+#         sentence = sentence.lower()
+#         if similarity in sentence:
+#           safe, ignore = sentence.split(similarity)
+#           if word["name"].lower() in ignore:
+#             continue
+#           elif word["name"] in safe and word['name'] not in ProcessedDiseases:
+#             DiseaseList[word["name"]] = [word['name']]
+#             ProcessedDiseases.append(word["name"])
+#             break
+          
+
+#       if word['name'].lower() in sentence.lower() and word['name'] not in ProcessedDiseases:
+#         if len(UniqueDisease(data, sentence, word['name'])) == 0:
+#             DiseaseList[word["name"]] = [word["name"]]
+#             ProcessedDiseases.append(word["name"])
+#             break
+#         else: 
+#           for disease in UniqueDisease(data, sentence, word['name']):
+#             if disease in ProcessedDiseases and disease in DiseaseList.keys() and word["name"] not in DiseaseList[disease]:
+#               DiseaseList[disease].append(word['name'])
+#               ProcessedDiseases.append(word['name'])
+#               break
+            
+#           if any(word in sentence.lower() for word in Uncertainty):
+#             DiseaseList[word["name"]] = UniqueDisease(data, sentence, word['name'])
+#             DiseaseList[word["name"]].append(word["name"])
+#             for disease in DiseaseList[word["name"]]:
+#                 ProcessedDiseases.append(disease)
+#             break
+#           else:
+#             DiseaseList[word["name"]] = [word['name']]
+#             ProcessedDiseases.append(word["name"])
+#             break
+#   return DiseaseList
+
+# def DiseaseFrequency(text):
+#   f = open("disease.json","r") 
+#   data = json.load(f)
+#   words = getStemWords(text.lower())
+#   dist = nltk.FreqDist(words)
+#   dict = {}
+  
+#   for disease in data:
+#     for word, frequency in dist.most_common(50):
+#       if word.lower() == disease['name'].lower():
+#         dict[word] = frequency
+
+#   return dict
+      
+
+
+
 def getEventType(stem_words):
   eventType = []
   for word in stem_words:
@@ -34,7 +108,7 @@ def getEventType(stem_words):
       eventType.append("Death")
     elif word in ["outbreak", "detect"] and "Presence" not in eventType:
       eventType.append("Presence")
-    elif word in ["report", "spread", "infect"] and "Infected" not in eventType:
+    elif word in ["report", "spread", "infect", "symptoms"] and "Infected" not in eventType:
       eventType.append("Infected")
     elif word in ["hospitalize"] and "Hospitalised" not in eventType:
       eventType.append("Hospitalised")
@@ -58,9 +132,21 @@ def getStemWords(text):
 
 def getEventDate(text):
   eventDate = datetime.today().strftime('%Y-%m-%d')
-  matches = datefinder.find_dates(text)
+  matches = list(datefinder.find_dates(text))
   Times = []
-  for match in matches:
+  # for match in matches:
+  #   Times.append(match)
+  while True:
+    try:
+      match = next(matches)
+    except TypeError as e:
+      print(f"TypeError {e}")
+      continue
+    except StopIteration as e:
+      print(f"StopIteration {e}")
+      break
+    except Exception as e:
+      raise e
     Times.append(match)
   if len(Times) != 0:
     eventDate = Times[0].strftime("%m/%d/%Y %H:%M:%S")
@@ -91,46 +177,60 @@ def getLocations(text, LocationList):
   return LocationList
   
 
-def generateReport(text, description): 
+# def generateReport(text, description): 
+#   # tokenise by sentence
+#   sentences = sent_tokenize(text)
 
-  # tokenise by sentence
-  sentences = sent_tokenize(text)
+#   DiseaseList = []
+#   SyndromeDict = {}
+#   LocationList = []
+#   LocationDict = {}
+#   eventDate = {}
+#   eventType = {}
+#   ReportList = []
 
-  DiseaseList = []
-  SyndromeList = []
-  LocationList = []
-  ReportList = []
-  PosConjunctions = ['or', '']
-  #finds disease, finds location associated with disease
-  # if location already exists in report list, append disease to that report
-  # if Disease mentioned again but new location not in location list, then append new location to existing disease
+#   #finds disease, finds location associated with disease
+#   # if location already exists in report list, append disease to that report
+#   # if Disease mentioned again but new location not in location list, then append new location to existing disease
+#   DiseaseDict = HowManyReports(text)
+#   f = open("syndrome_list.json","r") 
+#   syndromes = json.load(f)
 
-  f = open("disease_list.json","r") 
-  data = json.load(f)
-  for word in data:
-    for sentence in sentences:
-      if word['name'].lower() in sentence.lower() and word['name'] not in DiseaseList:
-        DiseaseList.append(word['name'])
-        LocationList = getLocations(sentence, LocationList)
-            
+#   data = DiseaseDict.keys()
+#   for word in data:
+#     LocationDict[word] = []
+#     SyndromeDict[word] = []
+#     eventType[word] = []
+#     for sentence in sentences:
+#       if word.lower() in sentence.lower():
+#         LocationList = getLocations(sentence, LocationList)
+#         for Location in LocationList:
+#           if Location not in LocationDict[word]:
+#            LocationDict[word].append(Location)
+#         for syndrome in syndromes:
+#           if syndrome["name"].lower() in sentence.lower() and syndrome["name"] not in SyndromeDict[word]:
+#             SyndromeDict[word].append(syndrome["name"])
+#         eventDate[word]= getEventDate(text)
+#         EventList = getEventType(sentence)
+#         for event in EventList:
+#           if eventType not in eventType[word]:
+#             eventType[word].append(event)
   
-  if len(DiseaseList) == 0:
-    DiseaseList.append("other")
-    LocationList = getLocations(description, LocationList)
-  f.close()
 
-  f = open("syndrome_list.json","r") 
-  syndromes = json.load(f)
-  for word in syndromes:
-    #print(word)
-    for sentence in sentences:
-      if word['name'].lower() in sentence.lower() and word['name'] not in SyndromeList:
-        SyndromeList.append(word['name'])
-        LocationList = getLocations(sentence, LocationList)
-
+#   if len(DiseaseDict.keys()) == 0:
+#     DiseaseDict["other"] = ["other"]
+#     LocationDict["other"] = getLocations(description, LocationList)
+#     SyndromeDict["other"] = []
+#     for word in syndromes:
+#       for sentence in sentences:
+#         if word['name'].lower() in sentence.lower() and word['name'] not in SyndromeDict["other"]:
+#           SyndromeDict["other"].append(word['name'])
+#     eventDate["other"] = getEventDate(text)
+#     eventType["other"] = getEventType(getStemWords(text))
   
-  eventDate = getEventDate(text)
-  eventType = getEventType(getStemWords(text))
+#   for key in DiseaseDict.keys():
+    
+#     ReportList.append({"diseases":DiseaseDict[key], "syndromes": SyndromeDict[key], "event_date": eventDate[key], "event_type":eventType[key], "location": LocationDict[key]})
 
   # print(SyndromeList)
   # use lat/long for location
@@ -138,7 +238,9 @@ def generateReport(text, description):
   # look for an ordinal for a case number 
   # look for event-type things 
   #print(LocationList.country_regions)
-  return {"diseases": DiseaseList, "syndromes": SyndromeList, "event_date": eventDate, "EventType": eventType, "Locations": LocationList}
+
+
+    # return ReportList
 
 
 
@@ -183,7 +285,10 @@ for article in dataStore:
   except:
     pass
   if valid:
-    req = requests.get(article["URL"])
+    try:
+      req = requests.get(article["URL"])
+    except:
+      pass
   if req.status_code == 200:
     try:
       currArticle = Article(article["URL"], config = config)
